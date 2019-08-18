@@ -22,12 +22,16 @@ public class MoveDestination : MonoBehaviour
     public AudioClip shimoitabashiB;
     public GameObject kitaikebukuro;
     public GameObject shimoitabashi;
+    public GameObject ikebukuro;
     public GameObject obj1;
     public GameObject obj2;
     public GameObject obj3;
+    public GameObject obj4;
+    public GameObject obj5;
+    public GameObject obj6;
     private List<GameObject> housous = new List<GameObject>();
     private List<GameObject> atss = new List<GameObject>();
-    private int[] atssignal = { 30, -2, 60 };//-1:,-2:速度制限解除
+    private int[] atssignal = { 45, -2, 50,-4,-3,15 };//-1:,-2:速度制限解除,-3:終点放送,-4ポイント通過
     private int housouindex = 0;
     private bool tj02A = true;
     private bool tj02B = true;
@@ -58,16 +62,20 @@ public class MoveDestination : MonoBehaviour
     public AudioSource door;
     public AudioClip openthedoor;
     public AudioClip closethedoor;
+    public AudioSource laststop;
+    public AudioSource pointpass;
 
     private float time = 0;
     private float stadis = 0.0f;
     private float speedbefore = 0.0f;
     private bool fullrun = false;
     private int[] stationdis = { 920, 1900 };
-    private string[] stationname = { "北池袋", "下板橋" };
+    private string[] stationname = { "池袋" };
     private bool[] stop = { true, true };
     private int staindex = 0;
     private int atsindex = 0;
+    private bool approachstation = false;
+    private bool less02 =false;
 
 
     public Transform goal;
@@ -274,32 +282,28 @@ public class MoveDestination : MonoBehaviour
                 }
                 else if ((agent.speed + (0.01f * accelerate)) * 3.6 >= 120)
                 {
-                    accelerate = 8;
+                    //accelerate = 8;
                     audioSource.pitch = 1.0f;
                     audioSource.Pause();
                     audioSource.clip = rapidcc;
                     audioSource.loop = true;
                     audioSource.Play();
 
-                    mode.text = "Mode:N";
+                    //mode.text = "Mode:N";
                     accpos = agent.speed / 120;
-                    accelerate = 0;//N
+
                 }
 
             }
+            stadis = Vector3.Distance(agent.transform.position, housous[staindex].transform.position) - 0.5f;
 
-          
-            if (stadis < 1 && agent.speed == 0)
-            {
-                staindex++;
-                nowdis = Vector3.Distance(agent.transform.position, housous[staindex].transform.position);
-                housouA = true;
-                housouB = true;
-            }
+
             speedbefore = agent.speed;
             speed.text = "Speed:" + agent.speed * 3.6 + "km/h";
-            stadis = Vector3.Distance(agent.transform.position, housous[staindex].transform.position);
-            distance.text = stationname[staindex] + "まで後：" + stadis;
+
+            string status = detectstop();
+
+            distance.text = stationname[staindex] +status + stadis;
             // 何か処理
             yield return new WaitForSeconds(0.01f);
         }
@@ -313,18 +317,23 @@ public class MoveDestination : MonoBehaviour
         agent = GetComponent<NavMeshAgent>();
         agent.destination = goal.position;
 
+
         atss.Add(obj1);
         atss.Add(obj2);
         atss.Add(obj3);
+        atss.Add(obj4);
+        atss.Add(obj5);
+        atss.Add(obj6);
 
-        housous.Add(kitaikebukuro);
-        housous.Add(shimoitabashi);
+        //housous.Add(kitaikebukuro);
+        //housous.Add(shimoitabashi);
+        housous.Add(ikebukuro);
 
         stadis = Vector3.Distance(agent.transform.position, housous[0].transform.position);
         nowdis = stadis;
         StartCoroutine(FuncCoroutine());
 
-        Invoke("shingo", 32.0f);
+        Invoke("shingo", 10.0f);
 
 
 
@@ -332,17 +341,28 @@ public class MoveDestination : MonoBehaviour
 
     void shingo()
     {
-        abletogo = true;
-        cango.text = "信号：進行";
+
+            abletogo = true;
+            cango.text = "信号：進行";
+        
+
     }
 
     private void ats()
     {
-        if (Vector3.Distance(agent.transform.position, atss[atsindex].transform.position) < 10)
+        if (Vector3.Distance(agent.transform.position, atss[atsindex].transform.position) < 5)
         {
             if (atssignal[atsindex] == -2)
             {
                 atsspeed.text = "速度制限解除";
+            }
+            else if (atssignal[atsindex] == -3)
+            {
+                laststop.Play();
+            }
+            else if (atssignal[atsindex] == -4)
+            {
+                pointpass.Play();
             }
             else
             {
@@ -352,6 +372,75 @@ public class MoveDestination : MonoBehaviour
             atsindex++;
 
         }
+
+    }
+
+    private string detectstop() //停車駅判定
+    {
+        if (stadis < 0.5 && stop[staindex] == false)
+        {
+            staindex++;
+            nowdis = Vector3.Distance(agent.transform.position, housous[staindex].transform.position);
+            housouA = true;
+            housouB = true;
+        }
+        else
+        {
+            if (stadis<200f&& approachstation == false)
+            {
+                approachstation = true;
+                distance.color = new Color(255f / 255f, 241f / 255f, 0f / 255f);
+                
+            }
+            else if (stadis<=0.5f)
+            {
+                less02 = true;
+                if (agent.speed == 0.0f)
+                {
+                    if (staindex==housous.Count-1)
+                    {
+                        housouA = true;
+                        housouB = true;
+                        abletogo = false;
+                        cango.text = "信号：停止";
+                        return "終点　全線走破";
+                    }
+                    else
+                    {
+                        staindex++;
+                        nowdis = Vector3.Distance(agent.transform.position, housous[staindex].transform.position);
+                        housouA = true;
+                        housouB = true;
+                        abletogo = false;
+                        cango.text = "信号：停止";
+                        approachstation = false;
+                        less02 = false;
+                        distance.color = new Color(51f / 255f, 51f / 255f, 51f / 255f);
+
+                        return "停車　まで後：";
+                    }
+                }
+                return "合格範囲";
+
+            }
+            else if (approachstation == true&&less02==true&&stadis>0.5f)
+            {
+                distance.color = new Color(255f / 255f, 1f / 255f, 0f / 255f);
+                return "オーバーラン！";
+            }
+        }
+
+        if (stop[staindex] == true)
+        {
+            return "停車　まで後：";
+        }
+        else
+        {
+            return "通過まで後：";
+        }
+
+
+
 
     }
 
@@ -372,7 +461,7 @@ public class MoveDestination : MonoBehaviour
             housouA = false;
         }
 
-        if (stadis < 300 && housouB == true)
+        if (stadis < 400 && housouB == true)
         {
             if (staindex == 0)
             {
@@ -438,14 +527,16 @@ public class MoveDestination : MonoBehaviour
                     door.clip = closethedoor;
                     door.Play();
                     dooropen = false;
-                    doorstatus.text = "ドア状態：閉めている";
+                    agent.speed = 0.0f;
+                    doorstatus.text = "ドア状態：閉";
                 }
                 else if(dooropen == false)
                 {
                     door.clip = openthedoor;
                     door.Play();
                     dooropen = true;
-                    doorstatus.text = "ドア状態：開いている";
+                    doorstatus.text = "ドア状態：開";
+                    Invoke("shingo", 10.0f);
                 }
             }
         }
