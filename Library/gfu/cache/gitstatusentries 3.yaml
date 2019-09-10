@@ -1,0 +1,2269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-09-03T20:43:11.411+09:00
+  initializedAtString: 2019-09-03T19:50:41.904+09:00
+  entries:
+  - path: .DS_Store
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.DS_Store
+    projectPath: .DS_Store
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-Debug.json
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/project-cache/Assembly-CSharp-Debug.json
+    projectPath: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-Debug.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+    projectPath: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+    projectPath: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: .vs/TJSimulator/xs/sqlite3/storage.ide
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/sqlite3/storage.ide
+    projectPath: .vs/TJSimulator/xs/sqlite3/storage.ide
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs/TJSimulator/xs/sqlite3/storage.ide-shm
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/sqlite3/storage.ide-shm
+    projectPath: .vs/TJSimulator/xs/sqlite3/storage.ide-shm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs/TJSimulator/xs/sqlite3/storage.ide-wal
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/sqlite3/storage.ide-wal
+    projectPath: .vs/TJSimulator/xs/sqlite3/storage.ide-wal
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs/TJSimulator/xs/UserPrefs.xml
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/UserPrefs.xml
+    projectPath: .vs/TJSimulator/xs/UserPrefs.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp.csproj
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-firstpass.csproj
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assembly-CSharp-firstpass.csproj
+    projectPath: Assembly-CSharp-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/.DS_Store
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/.DS_Store
+    projectPath: Assets/.DS_Store
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/30000acc.wav
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/30000acc.wav
+    projectPath: Assets/30000acc.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/30000acc.wav.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/30000acc.wav.meta
+    projectPath: Assets/30000acc.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/8000max.wav
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/8000max.wav
+    projectPath: Assets/8000max.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/8000max.wav.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/8000max.wav.meta
+    projectPath: Assets/8000max.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/9050GTO.wav
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/9050GTO.wav
+    projectPath: Assets/9050GTO.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/9050GTO.wav.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/9050GTO.wav.meta
+    projectPath: Assets/9050GTO.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/dodai80mc2.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/dodai80mc2.blend
+    projectPath: Assets/dodai80mc2.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/dodai80mc2.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/dodai80mc2.blend.meta
+    projectPath: Assets/dodai80mc2.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/MoveDestination.cs
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/MoveDestination.cs
+    projectPath: Assets/MoveDestination.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/narimasuB.mp3
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/narimasuB.mp3
+    projectPath: Assets/narimasuB.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/narimasuB.mp3.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/narimasuB.mp3.meta
+    projectPath: Assets/narimasuB.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/passengerrapid.mp3
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/passengerrapid.mp3
+    projectPath: Assets/passengerrapid.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/passengerrapid.mp3.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/passengerrapid.mp3.meta
+    projectPath: Assets/passengerrapid.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/.DS_Store
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/.DS_Store
+    projectPath: Assets/Rails/.DS_Store
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/250m (1).blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/250m (1).blend
+    projectPath: Assets/Rails/250m (1).blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/250m (1).blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/250m (1).blend.meta
+    projectPath: Assets/Rails/250m (1).blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.4.8m2.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.4.8m2.blend
+    projectPath: Assets/Rails/38mc.4.8m2.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.4.8m2.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.4.8m2.blend.meta
+    projectPath: Assets/Rails/38mc.4.8m2.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.0m.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.0m.blend
+    projectPath: Assets/Rails/38mc.5.0m.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.0m.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.0m.blend.meta
+    projectPath: Assets/Rails/38mc.5.0m.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.0m.blend1
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.0m.blend1
+    projectPath: Assets/Rails/38mc.5.0m.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.0m.blend1.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.0m.blend1.meta
+    projectPath: Assets/Rails/38mc.5.0m.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.0m2.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.0m2.blend
+    projectPath: Assets/Rails/38mc.5.0m2.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.0m2.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.0m2.blend.meta
+    projectPath: Assets/Rails/38mc.5.0m2.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.4m.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m.blend
+    projectPath: Assets/Rails/38mc.5.4m.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.4m.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m.blend.meta
+    projectPath: Assets/Rails/38mc.5.4m.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.4m2.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m2.blend
+    projectPath: Assets/Rails/38mc.5.4m2.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.4m2.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m2.blend.meta
+    projectPath: Assets/Rails/38mc.5.4m2.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.4m2.blend1
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m2.blend1
+    projectPath: Assets/Rails/38mc.5.4m2.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.4m2.blend1.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m2.blend1.meta
+    projectPath: Assets/Rails/38mc.5.4m2.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.4m3.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m3.blend
+    projectPath: Assets/Rails/38mc.5.4m3.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.4m3.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m3.blend.meta
+    projectPath: Assets/Rails/38mc.5.4m3.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.4mbase.blend1
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4mbase.blend1
+    projectPath: Assets/Rails/38mc.5.4mbase.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.4mbase.blend1.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4mbase.blend1.meta
+    projectPath: Assets/Rails/38mc.5.4mbase.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.6m2.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.6m2.blend
+    projectPath: Assets/Rails/38mc.5.6m2.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.5.6m2.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.6m2.blend.meta
+    projectPath: Assets/Rails/38mc.5.6m2.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.6.0m.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.6.0m.blend
+    projectPath: Assets/Rails/38mc.6.0m.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.6.0m.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.6.0m.blend.meta
+    projectPath: Assets/Rails/38mc.6.0m.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.6.0m.blend1
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.6.0m.blend1
+    projectPath: Assets/Rails/38mc.6.0m.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.6.0m.blend1.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.6.0m.blend1.meta
+    projectPath: Assets/Rails/38mc.6.0m.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.6.0m2.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.6.0m2.blend
+    projectPath: Assets/Rails/38mc.6.0m2.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.6.0m2.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.6.0m2.blend.meta
+    projectPath: Assets/Rails/38mc.6.0m2.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.6.0m2.blend1
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.6.0m2.blend1
+    projectPath: Assets/Rails/38mc.6.0m2.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/38mc.6.0m2.blend1.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.6.0m2.blend1.meta
+    projectPath: Assets/Rails/38mc.6.0m2.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/40mc.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/40mc.blend
+    projectPath: Assets/Rails/40mc.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/40mc.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/40mc.blend.meta
+    projectPath: Assets/Rails/40mc.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/43.7mc.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/43.7mc.blend
+    projectPath: Assets/Rails/43.7mc.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/43.7mc.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/43.7mc.blend.meta
+    projectPath: Assets/Rails/43.7mc.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/80mhc2.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/80mhc2.blend
+    projectPath: Assets/Rails/80mhc2.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/80mhc2.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/80mhc2.blend.meta
+    projectPath: Assets/Rails/80mhc2.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/80mhc2.blend1
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/80mhc2.blend1
+    projectPath: Assets/Rails/80mhc2.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/80mhc2.blend1.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/80mhc2.blend1.meta
+    projectPath: Assets/Rails/80mhc2.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/87.4hcm2.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/87.4hcm2.blend
+    projectPath: Assets/Rails/87.4hcm2.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/87.4hcm2.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/87.4hcm2.blend.meta
+    projectPath: Assets/Rails/87.4hcm2.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/curvrailbase.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/curvrailbase.blend
+    projectPath: Assets/Rails/curvrailbase.blend
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Rails/curvrailbase.blend1
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/curvrailbase.blend1
+    projectPath: Assets/Rails/curvrailbase.blend1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Rails/dodai38mc.4.8m.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.4.8m.blend
+    projectPath: Assets/Rails/dodai38mc.4.8m.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai38mc.4.8m.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.4.8m.blend.meta
+    projectPath: Assets/Rails/dodai38mc.4.8m.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai38mc.4.8m.blend1
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.4.8m.blend1
+    projectPath: Assets/Rails/dodai38mc.4.8m.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai38mc.4.8m.blend1.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.4.8m.blend1.meta
+    projectPath: Assets/Rails/dodai38mc.4.8m.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai38mc.5.0m.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.0m.blend
+    projectPath: Assets/Rails/dodai38mc.5.0m.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai38mc.5.0m.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.0m.blend.meta
+    projectPath: Assets/Rails/dodai38mc.5.0m.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai38mc.5.4m.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.4m.blend
+    projectPath: Assets/Rails/dodai38mc.5.4m.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai38mc.5.4m.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.4m.blend.meta
+    projectPath: Assets/Rails/dodai38mc.5.4m.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai38mc.5.4m.blend1
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.4m.blend1
+    projectPath: Assets/Rails/dodai38mc.5.4m.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai38mc.5.4m.blend1.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.4m.blend1.meta
+    projectPath: Assets/Rails/dodai38mc.5.4m.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai38mc.5.6m2.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.6m2.blend
+    projectPath: Assets/Rails/dodai38mc.5.6m2.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai38mc.5.6m2.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.6m2.blend.meta
+    projectPath: Assets/Rails/dodai38mc.5.6m2.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai38mc.6.0m2.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.6.0m2.blend
+    projectPath: Assets/Rails/dodai38mc.6.0m2.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai38mc.6.0m2.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.6.0m2.blend.meta
+    projectPath: Assets/Rails/dodai38mc.6.0m2.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai38mc.6.0m2.blend1
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.6.0m2.blend1
+    projectPath: Assets/Rails/dodai38mc.6.0m2.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai38mc.6.0m2.blend1.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.6.0m2.blend1.meta
+    projectPath: Assets/Rails/dodai38mc.6.0m2.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai40mc.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai40mc.blend
+    projectPath: Assets/Rails/dodai40mc.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai40mc.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai40mc.blend.meta
+    projectPath: Assets/Rails/dodai40mc.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai43.7mc.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai43.7mc.blend
+    projectPath: Assets/Rails/dodai43.7mc.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai43.7mc.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai43.7mc.blend.meta
+    projectPath: Assets/Rails/dodai43.7mc.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai80mc2.blend
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai80mc2.blend
+    projectPath: Assets/Rails/dodai80mc2.blend
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai80mc2.blend.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai80mc2.blend.meta
+    projectPath: Assets/Rails/dodai80mc2.blend.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai80mc2.blend1
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai80mc2.blend1
+    projectPath: Assets/Rails/dodai80mc2.blend1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Rails/dodai80mc2.blend1.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai80mc2.blend1.meta
+    projectPath: Assets/Rails/dodai80mc2.blend1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/rapidnarimasuA.mp3
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/rapidnarimasuA.mp3
+    projectPath: Assets/rapidnarimasuA.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/rapidnarimasuA.mp3.meta
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/rapidnarimasuA.mp3.meta
+    projectPath: Assets/rapidnarimasuA.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scenes/SampleScene.unity
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Scenes/SampleScene.unity
+    projectPath: Assets/Scenes/SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/SampleScene/NavMesh.asset
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Scenes/SampleScene/NavMesh.asset
+    projectPath: Assets/Scenes/SampleScene/NavMesh.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/assetDatabase3
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/CurrentLayout.dwlt
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/CurrentLayout.dwlt
+    projectPath: Library/CurrentLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/CurrentMaximizeLayout.dwlt
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/CurrentMaximizeLayout.dwlt
+    projectPath: Library/CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorInstance.json
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/EditorUserBuildSettings.asset
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/EditorUserBuildSettings.asset
+    projectPath: Library/EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/LastBuild.buildreport
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/LastBuild.buildreport
+    projectPath: Library/LastBuild.buildreport
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16
+    projectPath: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.info
+    projectPath: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.resource
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.resource
+    projectPath: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12
+    projectPath: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.info
+    projectPath: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.resource
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.resource
+    projectPath: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/21/2151140fddcbc4680930dad1ca89a280
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/21/2151140fddcbc4680930dad1ca89a280
+    projectPath: Library/metadata/21/2151140fddcbc4680930dad1ca89a280
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/21/2151140fddcbc4680930dad1ca89a280.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/21/2151140fddcbc4680930dad1ca89a280.info
+    projectPath: Library/metadata/21/2151140fddcbc4680930dad1ca89a280.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/2b/2be413cc0a09b46219179d5adad5ada5
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/2b/2be413cc0a09b46219179d5adad5ada5
+    projectPath: Library/metadata/2b/2be413cc0a09b46219179d5adad5ada5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/2b/2be413cc0a09b46219179d5adad5ada5.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/2b/2be413cc0a09b46219179d5adad5ada5.info
+    projectPath: Library/metadata/2b/2be413cc0a09b46219179d5adad5ada5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6
+    projectPath: Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6.info
+    projectPath: Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/40/4074417a85988413194fafc4c26ffb9f
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/40/4074417a85988413194fafc4c26ffb9f
+    projectPath: Library/metadata/40/4074417a85988413194fafc4c26ffb9f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/40/4074417a85988413194fafc4c26ffb9f.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/40/4074417a85988413194fafc4c26ffb9f.info
+    projectPath: Library/metadata/40/4074417a85988413194fafc4c26ffb9f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/46/460b0e5febf864407aa22bd932da10f4
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/46/460b0e5febf864407aa22bd932da10f4
+    projectPath: Library/metadata/46/460b0e5febf864407aa22bd932da10f4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/46/460b0e5febf864407aa22bd932da10f4.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/46/460b0e5febf864407aa22bd932da10f4.info
+    projectPath: Library/metadata/46/460b0e5febf864407aa22bd932da10f4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63
+    projectPath: Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63.info
+    projectPath: Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c
+    projectPath: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.info
+    projectPath: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.resource
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.resource
+    projectPath: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/59/59e068edaff394d2a8f9380241c70cf2
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/59/59e068edaff394d2a8f9380241c70cf2
+    projectPath: Library/metadata/59/59e068edaff394d2a8f9380241c70cf2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/59/59e068edaff394d2a8f9380241c70cf2.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/59/59e068edaff394d2a8f9380241c70cf2.info
+    projectPath: Library/metadata/59/59e068edaff394d2a8f9380241c70cf2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/64/6426c5a62d988486a94600611c5bb56c
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/64/6426c5a62d988486a94600611c5bb56c
+    projectPath: Library/metadata/64/6426c5a62d988486a94600611c5bb56c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/64/6426c5a62d988486a94600611c5bb56c.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/64/6426c5a62d988486a94600611c5bb56c.info
+    projectPath: Library/metadata/64/6426c5a62d988486a94600611c5bb56c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/69/695102d19b6be48389f61d728fa93bb8
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/69/695102d19b6be48389f61d728fa93bb8
+    projectPath: Library/metadata/69/695102d19b6be48389f61d728fa93bb8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/69/695102d19b6be48389f61d728fa93bb8.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/69/695102d19b6be48389f61d728fa93bb8.info
+    projectPath: Library/metadata/69/695102d19b6be48389f61d728fa93bb8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/6a/6a2cf7799b6ba4cde874d7b09fa8d40c
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/6a/6a2cf7799b6ba4cde874d7b09fa8d40c
+    projectPath: Library/metadata/6a/6a2cf7799b6ba4cde874d7b09fa8d40c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/6a/6a2cf7799b6ba4cde874d7b09fa8d40c.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/6a/6a2cf7799b6ba4cde874d7b09fa8d40c.info
+    projectPath: Library/metadata/6a/6a2cf7799b6ba4cde874d7b09fa8d40c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/6a/6af67c04e5bc24eeda36ed9661b57f93
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/6a/6af67c04e5bc24eeda36ed9661b57f93
+    projectPath: Library/metadata/6a/6af67c04e5bc24eeda36ed9661b57f93
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/6a/6af67c04e5bc24eeda36ed9661b57f93.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/6a/6af67c04e5bc24eeda36ed9661b57f93.info
+    projectPath: Library/metadata/6a/6af67c04e5bc24eeda36ed9661b57f93.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/71/71ea70d1796df4d2e83360d27d4b5c21
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/71/71ea70d1796df4d2e83360d27d4b5c21
+    projectPath: Library/metadata/71/71ea70d1796df4d2e83360d27d4b5c21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/71/71ea70d1796df4d2e83360d27d4b5c21.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/71/71ea70d1796df4d2e83360d27d4b5c21.info
+    projectPath: Library/metadata/71/71ea70d1796df4d2e83360d27d4b5c21.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/7e/7ee4c0d23b1e540069ccedcfba7599dd
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/7e/7ee4c0d23b1e540069ccedcfba7599dd
+    projectPath: Library/metadata/7e/7ee4c0d23b1e540069ccedcfba7599dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/7e/7ee4c0d23b1e540069ccedcfba7599dd.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/7e/7ee4c0d23b1e540069ccedcfba7599dd.info
+    projectPath: Library/metadata/7e/7ee4c0d23b1e540069ccedcfba7599dd.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/7e/7ee4c0d23b1e540069ccedcfba7599dd.resource
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/7e/7ee4c0d23b1e540069ccedcfba7599dd.resource
+    projectPath: Library/metadata/7e/7ee4c0d23b1e540069ccedcfba7599dd.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958
+    projectPath: Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958.info
+    projectPath: Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/81/8162cc3ab00ff4853b511833da98c7b3
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/81/8162cc3ab00ff4853b511833da98c7b3
+    projectPath: Library/metadata/81/8162cc3ab00ff4853b511833da98c7b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/81/8162cc3ab00ff4853b511833da98c7b3.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/81/8162cc3ab00ff4853b511833da98c7b3.info
+    projectPath: Library/metadata/81/8162cc3ab00ff4853b511833da98c7b3.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/85/859b139a5a6204e02a8e83d01989149e
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/85/859b139a5a6204e02a8e83d01989149e
+    projectPath: Library/metadata/85/859b139a5a6204e02a8e83d01989149e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/85/859b139a5a6204e02a8e83d01989149e.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/85/859b139a5a6204e02a8e83d01989149e.info
+    projectPath: Library/metadata/85/859b139a5a6204e02a8e83d01989149e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/88/883387fecbe7d4b878fa62d9b3116191
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/88/883387fecbe7d4b878fa62d9b3116191
+    projectPath: Library/metadata/88/883387fecbe7d4b878fa62d9b3116191
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/88/883387fecbe7d4b878fa62d9b3116191.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/88/883387fecbe7d4b878fa62d9b3116191.info
+    projectPath: Library/metadata/88/883387fecbe7d4b878fa62d9b3116191.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/88/883387fecbe7d4b878fa62d9b3116191.resource
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/88/883387fecbe7d4b878fa62d9b3116191.resource
+    projectPath: Library/metadata/88/883387fecbe7d4b878fa62d9b3116191.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/88/88705080bbd804b4bafcd7226441918f
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/88/88705080bbd804b4bafcd7226441918f
+    projectPath: Library/metadata/88/88705080bbd804b4bafcd7226441918f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/88/88705080bbd804b4bafcd7226441918f.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/88/88705080bbd804b4bafcd7226441918f.info
+    projectPath: Library/metadata/88/88705080bbd804b4bafcd7226441918f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/99/99430bd384a90464fb0ec3f73f052dec
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/99/99430bd384a90464fb0ec3f73f052dec
+    projectPath: Library/metadata/99/99430bd384a90464fb0ec3f73f052dec
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4
+    projectPath: Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4.info
+    projectPath: Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/ae/ae6e77d273012498a9e8cefe91d28bfe
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/ae/ae6e77d273012498a9e8cefe91d28bfe
+    projectPath: Library/metadata/ae/ae6e77d273012498a9e8cefe91d28bfe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/ae/ae6e77d273012498a9e8cefe91d28bfe.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/ae/ae6e77d273012498a9e8cefe91d28bfe.info
+    projectPath: Library/metadata/ae/ae6e77d273012498a9e8cefe91d28bfe.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06
+    projectPath: Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06.info
+    projectPath: Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/c0/c0065eac60dfb45e687c833427035c83
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/c0/c0065eac60dfb45e687c833427035c83
+    projectPath: Library/metadata/c0/c0065eac60dfb45e687c833427035c83
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/c0/c0065eac60dfb45e687c833427035c83.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/c0/c0065eac60dfb45e687c833427035c83.info
+    projectPath: Library/metadata/c0/c0065eac60dfb45e687c833427035c83.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202
+    projectPath: Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202.info
+    projectPath: Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/c7/c7829d420b79a47339d018d64747110b
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/c7/c7829d420b79a47339d018d64747110b
+    projectPath: Library/metadata/c7/c7829d420b79a47339d018d64747110b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/c7/c7829d420b79a47339d018d64747110b.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/c7/c7829d420b79a47339d018d64747110b.info
+    projectPath: Library/metadata/c7/c7829d420b79a47339d018d64747110b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/cd/cd5a7c7ee7455453d8b75330a366bb6a
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/cd/cd5a7c7ee7455453d8b75330a366bb6a
+    projectPath: Library/metadata/cd/cd5a7c7ee7455453d8b75330a366bb6a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/cd/cd5a7c7ee7455453d8b75330a366bb6a.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/cd/cd5a7c7ee7455453d8b75330a366bb6a.info
+    projectPath: Library/metadata/cd/cd5a7c7ee7455453d8b75330a366bb6a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796
+    projectPath: Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796.info
+    projectPath: Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d3/d30e074624e104ef29eb180a0bea161e
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d3/d30e074624e104ef29eb180a0bea161e
+    projectPath: Library/metadata/d3/d30e074624e104ef29eb180a0bea161e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d3/d30e074624e104ef29eb180a0bea161e.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d3/d30e074624e104ef29eb180a0bea161e.info
+    projectPath: Library/metadata/d3/d30e074624e104ef29eb180a0bea161e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d5/d5138402e71a04c25be64ab91436a367
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d5/d5138402e71a04c25be64ab91436a367
+    projectPath: Library/metadata/d5/d5138402e71a04c25be64ab91436a367
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d5/d5138402e71a04c25be64ab91436a367.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d5/d5138402e71a04c25be64ab91436a367.info
+    projectPath: Library/metadata/d5/d5138402e71a04c25be64ab91436a367.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb
+    projectPath: Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb.info
+    projectPath: Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d8/d86e9120b560e498c95367964b4f147e
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d8/d86e9120b560e498c95367964b4f147e
+    projectPath: Library/metadata/d8/d86e9120b560e498c95367964b4f147e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/d8/d86e9120b560e498c95367964b4f147e.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d8/d86e9120b560e498c95367964b4f147e.info
+    projectPath: Library/metadata/d8/d86e9120b560e498c95367964b4f147e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/e0/e045f2620640f44cfa526c727393b21c
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/e0/e045f2620640f44cfa526c727393b21c
+    projectPath: Library/metadata/e0/e045f2620640f44cfa526c727393b21c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/e0/e045f2620640f44cfa526c727393b21c.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/e0/e045f2620640f44cfa526c727393b21c.info
+    projectPath: Library/metadata/e0/e045f2620640f44cfa526c727393b21c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/ec/ec82d665b87ee49b0ac46316d6717759
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/ec/ec82d665b87ee49b0ac46316d6717759
+    projectPath: Library/metadata/ec/ec82d665b87ee49b0ac46316d6717759
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/ec/ec82d665b87ee49b0ac46316d6717759.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/ec/ec82d665b87ee49b0ac46316d6717759.info
+    projectPath: Library/metadata/ec/ec82d665b87ee49b0ac46316d6717759.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/ec/ec9833ed622ec4bba999613cfdb02da7
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/ec/ec9833ed622ec4bba999613cfdb02da7
+    projectPath: Library/metadata/ec/ec9833ed622ec4bba999613cfdb02da7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/ec/ec9833ed622ec4bba999613cfdb02da7.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/ec/ec9833ed622ec4bba999613cfdb02da7.info
+    projectPath: Library/metadata/ec/ec9833ed622ec4bba999613cfdb02da7.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/f1/f17c86eb16dc8497b99ffd16169e7e69
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/f1/f17c86eb16dc8497b99ffd16169e7e69
+    projectPath: Library/metadata/f1/f17c86eb16dc8497b99ffd16169e7e69
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/f1/f17c86eb16dc8497b99ffd16169e7e69.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/f1/f17c86eb16dc8497b99ffd16169e7e69.info
+    projectPath: Library/metadata/f1/f17c86eb16dc8497b99ffd16169e7e69.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/fa/fa81bced054874e0caddb6a83934c600
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/fa/fa81bced054874e0caddb6a83934c600
+    projectPath: Library/metadata/fa/fa81bced054874e0caddb6a83934c600
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/fa/fa81bced054874e0caddb6a83934c600.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/fa/fa81bced054874e0caddb6a83934c600.info
+    projectPath: Library/metadata/fa/fa81bced054874e0caddb6a83934c600.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687
+    projectPath: Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687.info
+    projectPath: Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/fd/fdd893c4de2f54e64934eb2fa5ca86df
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/fd/fdd893c4de2f54e64934eb2fa5ca86df
+    projectPath: Library/metadata/fd/fdd893c4de2f54e64934eb2fa5ca86df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/fd/fdd893c4de2f54e64934eb2fa5ca86df.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/fd/fdd893c4de2f54e64934eb2fa5ca86df.info
+    projectPath: Library/metadata/fd/fdd893c4de2f54e64934eb2fa5ca86df.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/metadata/fd/fdd893c4de2f54e64934eb2fa5ca86df.resource
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/fd/fdd893c4de2f54e64934eb2fa5ca86df.resource
+    projectPath: Library/metadata/fd/fdd893c4de2f54e64934eb2fa5ca86df.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers.assets
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level0
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/level0
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Assembly-CSharp.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/Managed/Assembly-CSharp.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Assembly-CSharp-firstpass.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/Managed/Assembly-CSharp-firstpass.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Assembly-CSharp-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Analytics.DataPrivacy.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Analytics.DataPrivacy.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.TextMeshPro.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.TextMeshPro.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Timeline.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Timeline.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets.resS
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets.resS
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.resource
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.resource
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache.yaml
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache.yaml
+    projectPath: Library/PlayerDataCache/OSXUniversal/ScriptsOnlyCache.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-firstpass.pdb
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Assembly-CSharp-firstpass.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+    projectPath: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.pdb
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.Timeline.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/shadercompiler-UnityShaderCompiler3.log
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/shadercompiler-UnityShaderCompiler3.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/Hierarchy/c9e086-mainStage.json
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/StateCache/Hierarchy/c9e086-mainStage.json
+    projectPath: Library/StateCache/Hierarchy/c9e086-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/SceneView/282d53-mainStage.json
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/StateCache/SceneView/282d53-mainStage.json
+    projectPath: Library/StateCache/SceneView/282d53-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/UIElements/EditorWindows/UnityEditor.InspectorWindow 2.pref
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/UIElements/EditorWindows/UnityEditor.InspectorWindow
+      2.pref
+    projectPath: Library/UIElements/EditorWindows/UnityEditor.InspectorWindow 2.pref
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: narimasuB.mp3
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/narimasuB.mp3
+    projectPath: narimasuB.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/__Backupscenes/0.backup
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/tempFile.res
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/tempFile.res
+    projectPath: Temp/tempFile.res
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/tempFile.resG
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/tempFile.resG
+    projectPath: Temp/tempFile.resG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityLockfile
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityLockfile
+    projectPath: Temp/UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-01778b924521744729ab6d40632ddcb9
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-01778b924521744729ab6d40632ddcb9
+    projectPath: Temp/UnityTempFile-01778b924521744729ab6d40632ddcb9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-03b13684f0f5c44ccadfe92d2ce4868b
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-03b13684f0f5c44ccadfe92d2ce4868b
+    projectPath: Temp/UnityTempFile-03b13684f0f5c44ccadfe92d2ce4868b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-054eb0a7da4ac468e8e9359a9e80f2e8
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-054eb0a7da4ac468e8e9359a9e80f2e8
+    projectPath: Temp/UnityTempFile-054eb0a7da4ac468e8e9359a9e80f2e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-086c592aba91f431c85b681a8c534a40
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-086c592aba91f431c85b681a8c534a40
+    projectPath: Temp/UnityTempFile-086c592aba91f431c85b681a8c534a40
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-09136fe76ed82452f916ba77344b88b0
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-09136fe76ed82452f916ba77344b88b0
+    projectPath: Temp/UnityTempFile-09136fe76ed82452f916ba77344b88b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-0b35e0616db994538a3327bb9bfd6aa9
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-0b35e0616db994538a3327bb9bfd6aa9
+    projectPath: Temp/UnityTempFile-0b35e0616db994538a3327bb9bfd6aa9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-0fc365f724ea34dd69b0b5949f5df957
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-0fc365f724ea34dd69b0b5949f5df957
+    projectPath: Temp/UnityTempFile-0fc365f724ea34dd69b0b5949f5df957
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1048b83954323407dbccd54240e0df04
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-1048b83954323407dbccd54240e0df04
+    projectPath: Temp/UnityTempFile-1048b83954323407dbccd54240e0df04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-13d47df1b9f794cea963b37f7f68d3df
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-13d47df1b9f794cea963b37f7f68d3df
+    projectPath: Temp/UnityTempFile-13d47df1b9f794cea963b37f7f68d3df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-160e358901f6246da9527d84d4aa2920
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-160e358901f6246da9527d84d4aa2920
+    projectPath: Temp/UnityTempFile-160e358901f6246da9527d84d4aa2920
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-167e27dc9f7c14728badbf85e5e0a70f
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-167e27dc9f7c14728badbf85e5e0a70f
+    projectPath: Temp/UnityTempFile-167e27dc9f7c14728badbf85e5e0a70f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-18cd27927f66347a0894bcb79897241e
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-18cd27927f66347a0894bcb79897241e
+    projectPath: Temp/UnityTempFile-18cd27927f66347a0894bcb79897241e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1a2ef70230a1b4078949cbc7e2e15f8b
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-1a2ef70230a1b4078949cbc7e2e15f8b
+    projectPath: Temp/UnityTempFile-1a2ef70230a1b4078949cbc7e2e15f8b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1ab2788fe04344eeb934a5a439e19863
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-1ab2788fe04344eeb934a5a439e19863
+    projectPath: Temp/UnityTempFile-1ab2788fe04344eeb934a5a439e19863
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1bd966141932e44eda9a57a141afaea4
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-1bd966141932e44eda9a57a141afaea4
+    projectPath: Temp/UnityTempFile-1bd966141932e44eda9a57a141afaea4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1ce1c1c6e556a4c1fa04dfd8cba50918
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-1ce1c1c6e556a4c1fa04dfd8cba50918
+    projectPath: Temp/UnityTempFile-1ce1c1c6e556a4c1fa04dfd8cba50918
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1d984991466a64750874fbbf0d517065
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-1d984991466a64750874fbbf0d517065
+    projectPath: Temp/UnityTempFile-1d984991466a64750874fbbf0d517065
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1f413e72d893f422d8ca52101e74d9dc
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-1f413e72d893f422d8ca52101e74d9dc
+    projectPath: Temp/UnityTempFile-1f413e72d893f422d8ca52101e74d9dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-212e97308df174012b09a30a9c234593
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-212e97308df174012b09a30a9c234593
+    projectPath: Temp/UnityTempFile-212e97308df174012b09a30a9c234593
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-223b05533687c490d9faec8642969a36
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-223b05533687c490d9faec8642969a36
+    projectPath: Temp/UnityTempFile-223b05533687c490d9faec8642969a36
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-24541fc20fef14db580c42f48c9f7689
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-24541fc20fef14db580c42f48c9f7689
+    projectPath: Temp/UnityTempFile-24541fc20fef14db580c42f48c9f7689
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2541944d185604b668f8e88ec8df4186
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-2541944d185604b668f8e88ec8df4186
+    projectPath: Temp/UnityTempFile-2541944d185604b668f8e88ec8df4186
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2b2b9d4bd1e4e4bfe9f37a012cb853b4
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-2b2b9d4bd1e4e4bfe9f37a012cb853b4
+    projectPath: Temp/UnityTempFile-2b2b9d4bd1e4e4bfe9f37a012cb853b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2d2a086c0880c43378ba06d90f288147
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-2d2a086c0880c43378ba06d90f288147
+    projectPath: Temp/UnityTempFile-2d2a086c0880c43378ba06d90f288147
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2d6e109861cc946abb24f90d3ae2b89c
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-2d6e109861cc946abb24f90d3ae2b89c
+    projectPath: Temp/UnityTempFile-2d6e109861cc946abb24f90d3ae2b89c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2ec7735df0455405ebf96f84251b9f99
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-2ec7735df0455405ebf96f84251b9f99
+    projectPath: Temp/UnityTempFile-2ec7735df0455405ebf96f84251b9f99
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2f2f369edf90842cf9af2602e40326fb
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-2f2f369edf90842cf9af2602e40326fb
+    projectPath: Temp/UnityTempFile-2f2f369edf90842cf9af2602e40326fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-32227ef3877394525ab5b242e59fbe8e
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-32227ef3877394525ab5b242e59fbe8e
+    projectPath: Temp/UnityTempFile-32227ef3877394525ab5b242e59fbe8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-33773fdc8f59b4f0589a2f4880e3149a
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-33773fdc8f59b4f0589a2f4880e3149a
+    projectPath: Temp/UnityTempFile-33773fdc8f59b4f0589a2f4880e3149a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-352e0ac8c78074854919de5fa8ed60f0
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-352e0ac8c78074854919de5fa8ed60f0
+    projectPath: Temp/UnityTempFile-352e0ac8c78074854919de5fa8ed60f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-369ec60a3c65e4bb7b9dd8e945836771
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-369ec60a3c65e4bb7b9dd8e945836771
+    projectPath: Temp/UnityTempFile-369ec60a3c65e4bb7b9dd8e945836771
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-372477341335c4f31a5a815f21a94b94
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-372477341335c4f31a5a815f21a94b94
+    projectPath: Temp/UnityTempFile-372477341335c4f31a5a815f21a94b94
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-38075bd583e2d4f7bbcda1c7188e07a1
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-38075bd583e2d4f7bbcda1c7188e07a1
+    projectPath: Temp/UnityTempFile-38075bd583e2d4f7bbcda1c7188e07a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-3d1334c8601554420892ddf3dfde755d
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-3d1334c8601554420892ddf3dfde755d
+    projectPath: Temp/UnityTempFile-3d1334c8601554420892ddf3dfde755d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-3dc73b061e66e49d19ac56154677cbf5
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-3dc73b061e66e49d19ac56154677cbf5
+    projectPath: Temp/UnityTempFile-3dc73b061e66e49d19ac56154677cbf5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-3ec0342354df94025ba1eb5c0cbb4a7e
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-3ec0342354df94025ba1eb5c0cbb4a7e
+    projectPath: Temp/UnityTempFile-3ec0342354df94025ba1eb5c0cbb4a7e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-4628aef29c333466797365b86e33217b
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-4628aef29c333466797365b86e33217b
+    projectPath: Temp/UnityTempFile-4628aef29c333466797365b86e33217b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-4875547b4487b4a30a1dd606a7a04bec
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-4875547b4487b4a30a1dd606a7a04bec
+    projectPath: Temp/UnityTempFile-4875547b4487b4a30a1dd606a7a04bec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-4a946294b6df0492aa276758d4fd9dae
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-4a946294b6df0492aa276758d4fd9dae
+    projectPath: Temp/UnityTempFile-4a946294b6df0492aa276758d4fd9dae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-4c5d3c75440d34c228999d94798c9f38
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-4c5d3c75440d34c228999d94798c9f38
+    projectPath: Temp/UnityTempFile-4c5d3c75440d34c228999d94798c9f38
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-4fb2cf5b26d614dffba8e9e0c15e6738
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-4fb2cf5b26d614dffba8e9e0c15e6738
+    projectPath: Temp/UnityTempFile-4fb2cf5b26d614dffba8e9e0c15e6738
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-51ff6ee9324bc45ad930507d35b8d9e9
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-51ff6ee9324bc45ad930507d35b8d9e9
+    projectPath: Temp/UnityTempFile-51ff6ee9324bc45ad930507d35b8d9e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-57112b8a190334f5bbfca54f49ef939d
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-57112b8a190334f5bbfca54f49ef939d
+    projectPath: Temp/UnityTempFile-57112b8a190334f5bbfca54f49ef939d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-5a6ec34245f3644aeb29caa2e6f9ae34
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-5a6ec34245f3644aeb29caa2e6f9ae34
+    projectPath: Temp/UnityTempFile-5a6ec34245f3644aeb29caa2e6f9ae34
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-5b131db9e38964073a705e2e038dddbf
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-5b131db9e38964073a705e2e038dddbf
+    projectPath: Temp/UnityTempFile-5b131db9e38964073a705e2e038dddbf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-5b5d5a3ac73404210b9481d2f66bf581
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-5b5d5a3ac73404210b9481d2f66bf581
+    projectPath: Temp/UnityTempFile-5b5d5a3ac73404210b9481d2f66bf581
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-5c3f155499daa4395bef190f94ee0e34
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-5c3f155499daa4395bef190f94ee0e34
+    projectPath: Temp/UnityTempFile-5c3f155499daa4395bef190f94ee0e34
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-5e817ff0c6e084d3790a3ed879163473
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-5e817ff0c6e084d3790a3ed879163473
+    projectPath: Temp/UnityTempFile-5e817ff0c6e084d3790a3ed879163473
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-5ec304e348e7a49e3b212466029d5574
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-5ec304e348e7a49e3b212466029d5574
+    projectPath: Temp/UnityTempFile-5ec304e348e7a49e3b212466029d5574
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6018527c4b2aa4aa2bf11d88860accbb
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-6018527c4b2aa4aa2bf11d88860accbb
+    projectPath: Temp/UnityTempFile-6018527c4b2aa4aa2bf11d88860accbb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6387b54eee9cd4e4d90490a49677fefb
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-6387b54eee9cd4e4d90490a49677fefb
+    projectPath: Temp/UnityTempFile-6387b54eee9cd4e4d90490a49677fefb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6481540b5744f4b969e595cd3ac833da
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-6481540b5744f4b969e595cd3ac833da
+    projectPath: Temp/UnityTempFile-6481540b5744f4b969e595cd3ac833da
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-66c5731237aec4ff8940e80407bf3699
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-66c5731237aec4ff8940e80407bf3699
+    projectPath: Temp/UnityTempFile-66c5731237aec4ff8940e80407bf3699
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-670ca5589ed6e420db7f4cb38c307566
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-670ca5589ed6e420db7f4cb38c307566
+    projectPath: Temp/UnityTempFile-670ca5589ed6e420db7f4cb38c307566
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-67fe2ec865ec94081af8be2d7345b830
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-67fe2ec865ec94081af8be2d7345b830
+    projectPath: Temp/UnityTempFile-67fe2ec865ec94081af8be2d7345b830
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-69408e7e76a4c446abd3de2ebe4777b8
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-69408e7e76a4c446abd3de2ebe4777b8
+    projectPath: Temp/UnityTempFile-69408e7e76a4c446abd3de2ebe4777b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6b6aefe858c334b068ff42179de3bcb8
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-6b6aefe858c334b068ff42179de3bcb8
+    projectPath: Temp/UnityTempFile-6b6aefe858c334b068ff42179de3bcb8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6b7d68fa30e044e379c15a7acc87e10c
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-6b7d68fa30e044e379c15a7acc87e10c
+    projectPath: Temp/UnityTempFile-6b7d68fa30e044e379c15a7acc87e10c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6e738686615c7408f9e1a40cb6ef9f86
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-6e738686615c7408f9e1a40cb6ef9f86
+    projectPath: Temp/UnityTempFile-6e738686615c7408f9e1a40cb6ef9f86
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-724a7dc971b3547018ee12a67818eb09
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-724a7dc971b3547018ee12a67818eb09
+    projectPath: Temp/UnityTempFile-724a7dc971b3547018ee12a67818eb09
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-741ffc058a03f47f39c275ebca7e4934
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-741ffc058a03f47f39c275ebca7e4934
+    projectPath: Temp/UnityTempFile-741ffc058a03f47f39c275ebca7e4934
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-75baeea0198f24a3dbd605823bb83613
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-75baeea0198f24a3dbd605823bb83613
+    projectPath: Temp/UnityTempFile-75baeea0198f24a3dbd605823bb83613
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-76c16d5998fca4a889b9db8ffb25b5a8
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-76c16d5998fca4a889b9db8ffb25b5a8
+    projectPath: Temp/UnityTempFile-76c16d5998fca4a889b9db8ffb25b5a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-78f9cd5734e334ab29a858b296005b5d
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-78f9cd5734e334ab29a858b296005b5d
+    projectPath: Temp/UnityTempFile-78f9cd5734e334ab29a858b296005b5d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-79e6eaf5e1e9d48908894cc7ab3c6f6c
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-79e6eaf5e1e9d48908894cc7ab3c6f6c
+    projectPath: Temp/UnityTempFile-79e6eaf5e1e9d48908894cc7ab3c6f6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7bad5d6aafad54bdf96d57660494f07b
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-7bad5d6aafad54bdf96d57660494f07b
+    projectPath: Temp/UnityTempFile-7bad5d6aafad54bdf96d57660494f07b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7c6d97b3101fb46a4919222b75b65129
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-7c6d97b3101fb46a4919222b75b65129
+    projectPath: Temp/UnityTempFile-7c6d97b3101fb46a4919222b75b65129
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7c7d803c3d3b748f0bbbf9e33b743997
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-7c7d803c3d3b748f0bbbf9e33b743997
+    projectPath: Temp/UnityTempFile-7c7d803c3d3b748f0bbbf9e33b743997
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-88299c069da4f47c3ba4ee918c5e8a15
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-88299c069da4f47c3ba4ee918c5e8a15
+    projectPath: Temp/UnityTempFile-88299c069da4f47c3ba4ee918c5e8a15
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-89d74e274626b486c877d38d92485fa2
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-89d74e274626b486c877d38d92485fa2
+    projectPath: Temp/UnityTempFile-89d74e274626b486c877d38d92485fa2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-8b143c854a788419b9b4a5cb16a03eb3
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-8b143c854a788419b9b4a5cb16a03eb3
+    projectPath: Temp/UnityTempFile-8b143c854a788419b9b4a5cb16a03eb3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-8cae8502f540649e4a25065e1752e331
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-8cae8502f540649e4a25065e1752e331
+    projectPath: Temp/UnityTempFile-8cae8502f540649e4a25065e1752e331
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-8d43fa3d3be104566906be3c51c02019
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-8d43fa3d3be104566906be3c51c02019
+    projectPath: Temp/UnityTempFile-8d43fa3d3be104566906be3c51c02019
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-94ba43caca972432bb9e2ee1cc0059a8
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-94ba43caca972432bb9e2ee1cc0059a8
+    projectPath: Temp/UnityTempFile-94ba43caca972432bb9e2ee1cc0059a8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-94bcbac38860f479eb55e5e50670cb1b
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-94bcbac38860f479eb55e5e50670cb1b
+    projectPath: Temp/UnityTempFile-94bcbac38860f479eb55e5e50670cb1b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-96fbba8ddd2384afb8b999543fb273db
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-96fbba8ddd2384afb8b999543fb273db
+    projectPath: Temp/UnityTempFile-96fbba8ddd2384afb8b999543fb273db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-981e1069de8d24d4a8aa483646b0b6bc
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-981e1069de8d24d4a8aa483646b0b6bc
+    projectPath: Temp/UnityTempFile-981e1069de8d24d4a8aa483646b0b6bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-98a2ae55503874a68a2ec757240eb90f
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-98a2ae55503874a68a2ec757240eb90f
+    projectPath: Temp/UnityTempFile-98a2ae55503874a68a2ec757240eb90f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-98f294e5c836d41808e06edb74506201
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-98f294e5c836d41808e06edb74506201
+    projectPath: Temp/UnityTempFile-98f294e5c836d41808e06edb74506201
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9a1fc486ae8df4d4ab23e8852ad2f1e1
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-9a1fc486ae8df4d4ab23e8852ad2f1e1
+    projectPath: Temp/UnityTempFile-9a1fc486ae8df4d4ab23e8852ad2f1e1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9a2b1a1c3f5a44d228d8762e9810abd4
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-9a2b1a1c3f5a44d228d8762e9810abd4
+    projectPath: Temp/UnityTempFile-9a2b1a1c3f5a44d228d8762e9810abd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9c033dba6751c43f38234526edefc7a7
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-9c033dba6751c43f38234526edefc7a7
+    projectPath: Temp/UnityTempFile-9c033dba6751c43f38234526edefc7a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9d48146115c5d469e8fe293115d27551
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-9d48146115c5d469e8fe293115d27551
+    projectPath: Temp/UnityTempFile-9d48146115c5d469e8fe293115d27551
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9dc716b208a7944c0a59df9db7ca8f8c
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-9dc716b208a7944c0a59df9db7ca8f8c
+    projectPath: Temp/UnityTempFile-9dc716b208a7944c0a59df9db7ca8f8c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9df03d48572614f19af9f017517131f0
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-9df03d48572614f19af9f017517131f0
+    projectPath: Temp/UnityTempFile-9df03d48572614f19af9f017517131f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9e8c39072a61f4fe48a0fe3011605144
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-9e8c39072a61f4fe48a0fe3011605144
+    projectPath: Temp/UnityTempFile-9e8c39072a61f4fe48a0fe3011605144
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9f6aec43c0a7b42958a208557983e1bb
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-9f6aec43c0a7b42958a208557983e1bb
+    projectPath: Temp/UnityTempFile-9f6aec43c0a7b42958a208557983e1bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9fb4e6f8ed2aa42edbcfc9627027be05
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-9fb4e6f8ed2aa42edbcfc9627027be05
+    projectPath: Temp/UnityTempFile-9fb4e6f8ed2aa42edbcfc9627027be05
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9fc88998abaea45658dfe71394d10867
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-9fc88998abaea45658dfe71394d10867
+    projectPath: Temp/UnityTempFile-9fc88998abaea45658dfe71394d10867
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-a14dfa56a85ce4e078e0791ad7708958
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-a14dfa56a85ce4e078e0791ad7708958
+    projectPath: Temp/UnityTempFile-a14dfa56a85ce4e078e0791ad7708958
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-a1846c09490124b198afa0e6ab94410e
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-a1846c09490124b198afa0e6ab94410e
+    projectPath: Temp/UnityTempFile-a1846c09490124b198afa0e6ab94410e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-a26f2841e78bd4afdb3df14f9e312be8
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-a26f2841e78bd4afdb3df14f9e312be8
+    projectPath: Temp/UnityTempFile-a26f2841e78bd4afdb3df14f9e312be8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-a4665a75c681c4929ab86c0d0d1cbe09
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-a4665a75c681c4929ab86c0d0d1cbe09
+    projectPath: Temp/UnityTempFile-a4665a75c681c4929ab86c0d0d1cbe09
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-a9b9361505fb24928bd39a99d7eb0e21
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-a9b9361505fb24928bd39a99d7eb0e21
+    projectPath: Temp/UnityTempFile-a9b9361505fb24928bd39a99d7eb0e21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-aa05bb38bd39443b887b00489ffef534
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-aa05bb38bd39443b887b00489ffef534
+    projectPath: Temp/UnityTempFile-aa05bb38bd39443b887b00489ffef534
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-ac1bc40dc5c684790b2619a847cf2005
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-ac1bc40dc5c684790b2619a847cf2005
+    projectPath: Temp/UnityTempFile-ac1bc40dc5c684790b2619a847cf2005
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-ae89846a31d414c69a22cffca5000a62
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-ae89846a31d414c69a22cffca5000a62
+    projectPath: Temp/UnityTempFile-ae89846a31d414c69a22cffca5000a62
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b12eeb3e3195a428cbddd24123a01c37
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-b12eeb3e3195a428cbddd24123a01c37
+    projectPath: Temp/UnityTempFile-b12eeb3e3195a428cbddd24123a01c37
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b25e41831be354414be9138f8ef6ab40
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-b25e41831be354414be9138f8ef6ab40
+    projectPath: Temp/UnityTempFile-b25e41831be354414be9138f8ef6ab40
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b30ca3a73d0974ce2b60fa6704ea517e
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-b30ca3a73d0974ce2b60fa6704ea517e
+    projectPath: Temp/UnityTempFile-b30ca3a73d0974ce2b60fa6704ea517e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b4953405ab7044286bae183e70af6f17
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-b4953405ab7044286bae183e70af6f17
+    projectPath: Temp/UnityTempFile-b4953405ab7044286bae183e70af6f17
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b79b29ab50f4944febbbaaeb0888f833
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-b79b29ab50f4944febbbaaeb0888f833
+    projectPath: Temp/UnityTempFile-b79b29ab50f4944febbbaaeb0888f833
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b80b848125a854fadaca769b8adf05c5
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-b80b848125a854fadaca769b8adf05c5
+    projectPath: Temp/UnityTempFile-b80b848125a854fadaca769b8adf05c5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b88a87984f4be41c481e43e7843744c1
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-b88a87984f4be41c481e43e7843744c1
+    projectPath: Temp/UnityTempFile-b88a87984f4be41c481e43e7843744c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b8a00140bcc1b475fa9a8e6d70058cea
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-b8a00140bcc1b475fa9a8e6d70058cea
+    projectPath: Temp/UnityTempFile-b8a00140bcc1b475fa9a8e6d70058cea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-baba8303dbed34993b7a1cc929e2de8b
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-baba8303dbed34993b7a1cc929e2de8b
+    projectPath: Temp/UnityTempFile-baba8303dbed34993b7a1cc929e2de8b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-bac8bf4f214ba4799b9fe9fc730b52ea
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-bac8bf4f214ba4799b9fe9fc730b52ea
+    projectPath: Temp/UnityTempFile-bac8bf4f214ba4799b9fe9fc730b52ea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-be0e32f8ea2a146d0b224c401372c9fd
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-be0e32f8ea2a146d0b224c401372c9fd
+    projectPath: Temp/UnityTempFile-be0e32f8ea2a146d0b224c401372c9fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-bf5b47a127d5949f6bbc1438d204cedb
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-bf5b47a127d5949f6bbc1438d204cedb
+    projectPath: Temp/UnityTempFile-bf5b47a127d5949f6bbc1438d204cedb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-bfbdf6c0980fa4a58a0e5d1e7b22f3bf
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-bfbdf6c0980fa4a58a0e5d1e7b22f3bf
+    projectPath: Temp/UnityTempFile-bfbdf6c0980fa4a58a0e5d1e7b22f3bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-c19ec26986b1d489f9cd547124ade2c3
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-c19ec26986b1d489f9cd547124ade2c3
+    projectPath: Temp/UnityTempFile-c19ec26986b1d489f9cd547124ade2c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-c1bf4352822ff4f9b832112bd4a8eb92
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-c1bf4352822ff4f9b832112bd4a8eb92
+    projectPath: Temp/UnityTempFile-c1bf4352822ff4f9b832112bd4a8eb92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-c21085b923675482890d9eb9ed2e3608
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-c21085b923675482890d9eb9ed2e3608
+    projectPath: Temp/UnityTempFile-c21085b923675482890d9eb9ed2e3608
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-c7c6e5fac8a2744e9965811eb2b00da2
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-c7c6e5fac8a2744e9965811eb2b00da2
+    projectPath: Temp/UnityTempFile-c7c6e5fac8a2744e9965811eb2b00da2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-c88909ad4d7f040b398459eb1f5c9dc7
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-c88909ad4d7f040b398459eb1f5c9dc7
+    projectPath: Temp/UnityTempFile-c88909ad4d7f040b398459eb1f5c9dc7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-cb33c9f8a4421475dba4608a934341c3
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-cb33c9f8a4421475dba4608a934341c3
+    projectPath: Temp/UnityTempFile-cb33c9f8a4421475dba4608a934341c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-cf501634c8fae4557a37c587e69ad07e
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-cf501634c8fae4557a37c587e69ad07e
+    projectPath: Temp/UnityTempFile-cf501634c8fae4557a37c587e69ad07e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-cf7b0b290d51a46678d8cb55d99ea423
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-cf7b0b290d51a46678d8cb55d99ea423
+    projectPath: Temp/UnityTempFile-cf7b0b290d51a46678d8cb55d99ea423
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d4750f3ec1ca141a2bb6abe0abbb91ad
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-d4750f3ec1ca141a2bb6abe0abbb91ad
+    projectPath: Temp/UnityTempFile-d4750f3ec1ca141a2bb6abe0abbb91ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d8c683cfc974e471389c97b3f967c423
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-d8c683cfc974e471389c97b3f967c423
+    projectPath: Temp/UnityTempFile-d8c683cfc974e471389c97b3f967c423
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d8f2b780100a6472e8bf23d9b4d31cc2
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-d8f2b780100a6472e8bf23d9b4d31cc2
+    projectPath: Temp/UnityTempFile-d8f2b780100a6472e8bf23d9b4d31cc2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-ddb8949acc30c4aa4803c575b2ac57c8
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-ddb8949acc30c4aa4803c575b2ac57c8
+    projectPath: Temp/UnityTempFile-ddb8949acc30c4aa4803c575b2ac57c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-de22cd4bdaffb4f2bb3467c335cee30e
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-de22cd4bdaffb4f2bb3467c335cee30e
+    projectPath: Temp/UnityTempFile-de22cd4bdaffb4f2bb3467c335cee30e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e0bd4c727d79b4182a618ccb68dba452
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-e0bd4c727d79b4182a618ccb68dba452
+    projectPath: Temp/UnityTempFile-e0bd4c727d79b4182a618ccb68dba452
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e71fccf1d9732421d827a24992fbc6e8
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-e71fccf1d9732421d827a24992fbc6e8
+    projectPath: Temp/UnityTempFile-e71fccf1d9732421d827a24992fbc6e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e88b5fbb8417c495cab8a2a104ec9e77
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-e88b5fbb8417c495cab8a2a104ec9e77
+    projectPath: Temp/UnityTempFile-e88b5fbb8417c495cab8a2a104ec9e77
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-ec3e7e118c47f49779e092fad71c6f35
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-ec3e7e118c47f49779e092fad71c6f35
+    projectPath: Temp/UnityTempFile-ec3e7e118c47f49779e092fad71c6f35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-ec9e90d2f0eaa417b9c706bbbd061850
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-ec9e90d2f0eaa417b9c706bbbd061850
+    projectPath: Temp/UnityTempFile-ec9e90d2f0eaa417b9c706bbbd061850
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-eeab178d2165d40fcbbace9280b26cea
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-eeab178d2165d40fcbbace9280b26cea
+    projectPath: Temp/UnityTempFile-eeab178d2165d40fcbbace9280b26cea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f047728d3cb7149ce949cad348d57224
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-f047728d3cb7149ce949cad348d57224
+    projectPath: Temp/UnityTempFile-f047728d3cb7149ce949cad348d57224
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f122f01eed6044f338be295f2101e725
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-f122f01eed6044f338be295f2101e725
+    projectPath: Temp/UnityTempFile-f122f01eed6044f338be295f2101e725
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f3f65828e673340ac9c6e146b4097424
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-f3f65828e673340ac9c6e146b4097424
+    projectPath: Temp/UnityTempFile-f3f65828e673340ac9c6e146b4097424
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f6dc6f6b0ff1b41e5bb61ea07667ffe5
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-f6dc6f6b0ff1b41e5bb61ea07667ffe5
+    projectPath: Temp/UnityTempFile-f6dc6f6b0ff1b41e5bb61ea07667ffe5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-f72a0d39f378442698f58c723540e973
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-f72a0d39f378442698f58c723540e973
+    projectPath: Temp/UnityTempFile-f72a0d39f378442698f58c723540e973
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-fcdd7dea662df4caf9b2ba12ec1b0d34
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-fcdd7dea662df4caf9b2ba12ec1b0d34
+    projectPath: Temp/UnityTempFile-fcdd7dea662df4caf9b2ba12ec1b0d34
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-ff3abf2a78b754bd8a0f7cad53dbf2b9
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-ff3abf2a78b754bd8a0f7cad53dbf2b9
+    projectPath: Temp/UnityTempFile-ff3abf2a78b754bd8a0f7cad53dbf2b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-ff56261dbb6fb4cec9bfac791ae5a40a
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-ff56261dbb6fb4cec9bfac791ae5a40a
+    projectPath: Temp/UnityTempFile-ff56261dbb6fb4cec9bfac791ae5a40a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

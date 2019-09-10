@@ -1,13 +1,26 @@
 ﻿<Properties StartupConfiguration="{7CB315CC-46D4-7978-D6DA-BEE6DA4C3D21}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MoveDestination.cs">
     <Files>
-      <File FileName="Assets/MoveDestination.cs" Line="538" Column="46" />
-      <File FileName="Temp/UnityTempFile-1fd0790c31c744b9c8b822578353abbc" Line="6" Column="21" />
+      <File FileName="Assets/MoveDestination.cs" Line="908" Column="90" />
+      <File FileName="Assets/kitaikebukuroA.cs" />
+      <File FileName="Assets/FollowPlayer.cs" />
+      <File FileName="Assets/FrontAI.cs" Line="15" Column="6" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TJSimulator" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MoveDestination.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="551acedd-f831-4a80-9a4d-0758be6c4f6b" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

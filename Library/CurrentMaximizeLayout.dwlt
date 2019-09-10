@@ -22,10 +22,10 @@ MonoBehaviour:
     y: 30
     width: 1897
     height: 930
-  m_MinSize: {x: 713, y: 494}
-  m_MaxSize: {x: 18008, y: 14044}
+  m_MinSize: {x: 707, y: 472}
+  m_MaxSize: {x: 18002, y: 14022}
   vertical: 0
-  controlID: 2228
+  controlID: 2051
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -49,7 +49,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 23
     y: 607
-    width: 1081
+    width: 1071
     height: 378
   m_ViewDataDictionary: {fileID: 0}
   m_VSyncEnabled: 0
@@ -63,8 +63,8 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -540.5
-    m_HBaseRangeMax: 540.5
+    m_HBaseRangeMin: -535.5
+    m_HBaseRangeMax: 535.5
     m_VBaseRangeMin: -180.5
     m_VBaseRangeMax: 180.5
     m_HAllowExceedBaseRangeMin: 1
@@ -72,8 +72,8 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 1
-    m_VSlider: 1
+    m_HSlider: 0
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -84,25 +84,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 1081
+      width: 1071
       height: 361
-    m_Scale: {x: 1.163335, y: 1.163335}
-    m_Translation: {x: 508.73254, y: 188.16174}
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 535.5, y: 180.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -437.3053
-      y: -161.7434
-      width: 929.22504
-      height: 310.31476
+      x: -535.5
+      y: -180.5
+      width: 1071
+      height: 361
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 1081, y: 378}
+  m_LastWindowPixelSize: {x: 1071, y: 378}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -126,12 +126,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1081
+    width: 1071
     height: 930
-  m_MinSize: {x: 202, y: 444}
-  m_MaxSize: {x: 4002, y: 8044}
+  m_MinSize: {x: 202, y: 422}
+  m_MaxSize: {x: 4002, y: 8022}
   vertical: 1
-  controlID: 2152
+  controlID: 2052
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,7 +149,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1081
+    width: 1071
     height: 533
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
@@ -182,7 +182,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 23
     y: 74
-    width: 1081
+    width: 1071
     height: 514
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
@@ -195,9 +195,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 870.5, y: 180.5, z: 0}
+    m_Target: {x: 11.923756, y: 6.403862, z: 78.99727}
     speed: 2
-    m_Value: {x: 870.5, y: 180.5, z: 0}
+    m_Value: {x: 11.923756, y: 6.403862, z: 78.99727}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -226,13 +226,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.08508271, y: 0.9044391, z: -0.21445067, w: -0.35883367}
+    m_Target: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
     speed: 2
-    m_Value: {x: -0.08508272, y: 0.9044392, z: -0.2144507, w: -0.3588337}
+    m_Value: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
   m_Size:
-    m_Target: 464.64426
+    m_Target: 40.01557
     speed: 2
-    m_Value: 464.64426
+    m_Value: 40.01557
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -300,10 +300,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 533
-    width: 1081
+    width: 1071
     height: 397
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 222}
+  m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -326,14 +326,14 @@ MonoBehaviour:
   - {fileID: 11}
   m_Position:
     serializedVersion: 2
-    x: 1081
+    x: 1071
     y: 0
-    width: 531
+    width: 501
     height: 930
-  m_MinSize: {x: 234, y: 494}
-  m_MaxSize: {x: 10004, y: 14044}
+  m_MinSize: {x: 230, y: 472}
+  m_MaxSize: {x: 10000, y: 14022}
   vertical: 1
-  controlID: 2185
+  controlID: 1982
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -351,10 +351,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 531
-    height: 485
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+    width: 501
+    height: 500
+  m_MinSize: {x: 204, y: 222}
+  m_MaxSize: {x: 4004, y: 4022}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 10}
@@ -381,17 +381,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1104
+    x: 1094
     y: 74
-    width: 529
-    height: 466
+    width: 499
+    height: 481
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 8efbffff
+      m_ExpandedIDs: 98d6ffffccd6ffff5ed8ffff8efbffff0a3f000068410000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -431,9 +431,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 485
-    width: 531
-    height: 445
+    y: 500
+    width: 501
+    height: 430
   m_MinSize: {x: 230, y: 250}
   m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 12}
@@ -462,10 +462,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1104
-    y: 559
-    width: 529
-    height: 426
+    x: 1094
+    y: 574
+    width: 499
+    height: 411
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -545,8 +545,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs: 72c10000
+    m_LastClickedInstanceID: 49522
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 00000000d2390000
     m_RenameOverlay:
@@ -572,7 +572,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 67.78571}
+    m_ScrollPosition: {x: 0, y: 256.06506}
     m_GridSize: 48
   m_DirectoriesAreaWidth: 110
 --- !u!114 &13
@@ -590,9 +590,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1612
+    x: 1572
     y: 0
-    width: 285
+    width: 325
     height: 930
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
@@ -624,9 +624,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1635
+    x: 1595
     y: 74
-    width: 283
+    width: 323
     height: 911
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
@@ -660,10 +660,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1316
+    x: 1595
     y: 74
-    width: 300
-    height: 898
+    width: 323
+    height: 911
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &16
 MonoBehaviour:
@@ -685,10 +685,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1565
-    y: 99
+    x: 1618
+    y: 74
     width: 300
-    height: 870
+    height: 911
   m_ViewDataDictionary: {fileID: 0}
   progressMessageClearTime: -1
   notificationClearTime: -1
@@ -878,14 +878,709 @@ MonoBehaviour:
     treeScroll: {x: 0, y: 0}
     treeChanges:
       assets:
-        keys: []
-        values: []
+        keys:
+        - 00000000000000001000000000000000
+        - 023945d787c1f4ae5b2f2865a98b1f16
+        - 1a6de26e87f544a129a65b89a1a1db12
+        - 5207e643ce85e40c39f255dab4e99a6c
+        - 99430bd384a90464fb0ec3f73f052dec
+        - c9da515ecca0b47198daa7f1f66bbfbf
+        - 88705080bbd804b4bafcd7226441918f
+        - d025f680ffd8e40d8a41b2adb00ce796
+        - d86e9120b560e498c95367964b4f147e
+        - c405fbca22c2e4e0388e5b30e8b6f202
+        - 4fd7dfef74d7d4944a4b4fff92a1bb63
+        - d7e6b57bbd6c843c68aa32d7cfe699cb
+        - 7ff3c3d6fd6884219bb1b3cd1df78958
+        - 859b139a5a6204e02a8e83d01989149e
+        - ae370dda7f7a24f7aa19ebe529c55bc4
+        - 2f19ab390986c4c459cd2ab5be5e2fb6
+        - 7e1b125152bb042fa9773435c1159d5a
+        - fcc7bf9259b464b81bbbd3c3e36f7687
+        - fa81bced054874e0caddb6a83934c600
+        - 6426c5a62d988486a94600611c5bb56c
+        - d30e074624e104ef29eb180a0bea161e
+        - b314cf5fb38cf4c589676836a0587d06
+        - 55cc4b9f3bf3b4ad899b23e04a9fac3c
+        - 9fc0d4010bbf28b4594072e72b8655ab
+        - 2095134974188437fa6d7928570cecc1
+        - 4c21db74dd85b42279a1e6cb09526981
+        values:
+        - path: Assets
+          label: Assets
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Assets/30000acc.wav
+          label: 30000acc.wav
+          level: 1
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/30000acc.wav
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/30000acc.wav
+            projectPath: Assets/30000acc.wav
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets/8000max.wav
+          label: 8000max.wav
+          level: 1
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/8000max.wav
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/8000max.wav
+            projectPath: Assets/8000max.wav
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets/9050GTO.wav
+          label: 9050GTO.wav
+          level: 1
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/9050GTO.wav
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/9050GTO.wav
+            projectPath: Assets/9050GTO.wav
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets/MoveDestination.cs
+          label: MoveDestination.cs
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/MoveDestination.cs
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/MoveDestination.cs
+            projectPath: Assets/MoveDestination.cs
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 3
+        - path: Assets/Rails
+          label: Rails
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Assets/Rails/250m (1).blend
+          label: 250m (1).blend
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Rails/250m (1).blend
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/250m
+              (1).blend
+            projectPath: Assets/Rails/250m (1).blend
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets/Rails/38mc.5.0m.blend
+          label: 38mc.5.0m.blend
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Rails/38mc.5.0m.blend
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.0m.blend
+            projectPath: Assets/Rails/38mc.5.0m.blend
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets/Rails/38mc.5.0m.blend1
+          label: 38mc.5.0m.blend1
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Rails/38mc.5.0m.blend1
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.0m.blend1
+            projectPath: Assets/Rails/38mc.5.0m.blend1
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets/Rails/38mc.5.4m.blend
+          label: 38mc.5.4m.blend
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Rails/38mc.5.4m.blend
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m.blend
+            projectPath: Assets/Rails/38mc.5.4m.blend
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets/Rails/38mc.5.4m2.blend
+          label: 38mc.5.4m2.blend
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Rails/38mc.5.4m2.blend
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m2.blend
+            projectPath: Assets/Rails/38mc.5.4m2.blend
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets/Rails/38mc.5.4m3.blend
+          label: 38mc.5.4m3.blend
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Rails/38mc.5.4m3.blend
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m3.blend
+            projectPath: Assets/Rails/38mc.5.4m3.blend
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets/Rails/38mc.5.4mbase.blend1
+          label: 38mc.5.4mbase.blend1
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Rails/38mc.5.4mbase.blend1
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4mbase.blend1
+            projectPath: Assets/Rails/38mc.5.4mbase.blend1
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets/Rails/40mc.blend
+          label: 40mc.blend
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Rails/40mc.blend
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/40mc.blend
+            projectPath: Assets/Rails/40mc.blend
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets/Rails/43.7mc.blend
+          label: 43.7mc.blend
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Rails/43.7mc.blend
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/43.7mc.blend
+            projectPath: Assets/Rails/43.7mc.blend
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets/Rails/curvrailbase.blend
+          label: curvrailbase.blend
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Rails/curvrailbase.blend
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/curvrailbase.blend
+            projectPath: Assets/Rails/curvrailbase.blend
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 3
+        - path: Assets/Rails/curvrailbase.blend1
+          label: curvrailbase.blend1
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Rails/curvrailbase.blend1
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/curvrailbase.blend1
+            projectPath: Assets/Rails/curvrailbase.blend1
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 3
+        - path: Assets/Rails/dodai38mc.5.0m.blend
+          label: dodai38mc.5.0m.blend
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Rails/dodai38mc.5.0m.blend
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.0m.blend
+            projectPath: Assets/Rails/dodai38mc.5.0m.blend
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets/Rails/dodai38mc.5.4m.blend
+          label: dodai38mc.5.4m.blend
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Rails/dodai38mc.5.4m.blend
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.4m.blend
+            projectPath: Assets/Rails/dodai38mc.5.4m.blend
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets/Rails/dodai38mc.5.4m.blend1
+          label: dodai38mc.5.4m.blend1
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Rails/dodai38mc.5.4m.blend1
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.4m.blend1
+            projectPath: Assets/Rails/dodai38mc.5.4m.blend1
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets/Rails/dodai40mc.blend
+          label: dodai40mc.blend
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Rails/dodai40mc.blend
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai40mc.blend
+            projectPath: Assets/Rails/dodai40mc.blend
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets/Rails/dodai43.7mc.blend
+          label: dodai43.7mc.blend
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Rails/dodai43.7mc.blend
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai43.7mc.blend
+            projectPath: Assets/Rails/dodai43.7mc.blend
+            originalPath: 
+            indexStatus: 1
+            workTreeStatus: 1
+        - path: Assets/Scenes
+          label: Scenes
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Assets/Scenes/SampleScene.unity
+          label: SampleScene.unity
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Scenes/SampleScene.unity
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Scenes/SampleScene.unity
+            projectPath: Assets/Scenes/SampleScene.unity
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 3
+        - path: Assets/Scenes/SampleScene
+          label: SampleScene
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Assets/Scenes/SampleScene/NavMesh.asset
+          label: NavMesh.asset
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets/Scenes/SampleScene/NavMesh.asset
+            fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Scenes/SampleScene/NavMesh.asset
+            projectPath: Assets/Scenes/SampleScene/NavMesh.asset
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 3
       folders:
         keys:
+        - .vs
+        - .vs/TJSimulator
+        - .vs/TJSimulator/xs
+        - .vs/TJSimulator/xs/project-cache
+        - .vs/TJSimulator/xs/sqlite3
+        - Assets
+        - Assets/Rails
+        - Assets/Scenes
+        - Assets/Scenes/SampleScene
         - Library
         - Library/gfu
         - Library/gfu/cache
+        - Library/metadata
+        - Library/metadata/02
+        - Library/metadata/1a
+        - Library/metadata/2f
+        - Library/metadata/4f
+        - Library/metadata/52
+        - Library/metadata/64
+        - Library/metadata/7f
+        - Library/metadata/85
+        - Library/metadata/88
+        - Library/metadata/99
+        - Library/metadata/ae
+        - Library/metadata/b3
+        - Library/metadata/c4
+        - Library/metadata/d0
+        - Library/metadata/d3
+        - Library/metadata/d7
+        - Library/metadata/d8
+        - Library/metadata/fa
+        - Library/metadata/fc
+        - Library/ScriptAssemblies
+        - Library/StateCache
+        - Library/StateCache/Hierarchy
+        - Library/StateCache/SceneView
+        - obj
+        - obj/Debug
+        - Temp
+        - Temp/__Backupscenes
+        - Temp/ProcessJobs
         values:
+        - path: .vs
+          label: .vs
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: .vs/TJSimulator
+          label: TJSimulator
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: .vs/TJSimulator/xs
+          label: xs
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: .vs/TJSimulator/xs/project-cache
+          label: project-cache
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: .vs/TJSimulator/xs/sqlite3
+          label: sqlite3
+          level: 3
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Assets
+          label: Assets
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Assets/Rails
+          label: Rails
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Assets/Scenes
+          label: Scenes
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Assets/Scenes/SampleScene
+          label: SampleScene
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
         - path: Library
           label: Library
           level: 0
@@ -940,6 +1635,528 @@ MonoBehaviour:
             originalPath: 
             indexStatus: 0
             workTreeStatus: 0
+        - path: Library/metadata
+          label: metadata
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/02
+          label: 02
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/1a
+          label: 1a
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/2f
+          label: 2f
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/4f
+          label: 4f
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/52
+          label: 52
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/64
+          label: 64
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/7f
+          label: 7f
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/85
+          label: 85
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/88
+          label: 88
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/99
+          label: 99
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/ae
+          label: ae
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/b3
+          label: b3
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/c4
+          label: c4
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/d0
+          label: d0
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/d3
+          label: d3
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/d7
+          label: d7
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/d8
+          label: d8
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/fa
+          label: fa
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/metadata/fc
+          label: fc
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/ScriptAssemblies
+          label: ScriptAssemblies
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/StateCache
+          label: StateCache
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/StateCache/Hierarchy
+          label: Hierarchy
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Library/StateCache/SceneView
+          label: SceneView
+          level: 2
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: obj
+          label: obj
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: obj/Debug
+          label: Debug
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Temp
+          label: Temp
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Temp/__Backupscenes
+          label: __Backupscenes
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
+        - path: Temp/ProcessJobs
+          label: ProcessJobs
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 0
+          isLocked: 0
+          gitStatusEntry:
+            path: 
+            fullPath: 
+            projectPath: 
+            originalPath: 
+            indexStatus: 0
+            workTreeStatus: 0
       checkedFileNodes:
         keys: []
         values: []
@@ -968,6 +2185,1106 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
+      - path: .DS_Store
+        label: .DS_Store
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: .DS_Store
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.DS_Store
+          projectPath: .DS_Store
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: .vs
+        label: .vs
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: .vs/TJSimulator
+        label: TJSimulator
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: .vs/TJSimulator/xs
+        label: xs
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: .vs/TJSimulator/xs/project-cache
+        label: project-cache
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-Debug.json
+        label: Assembly-CSharp-Debug.json
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-Debug.json
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/project-cache/Assembly-CSharp-Debug.json
+          projectPath: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-Debug.json
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+        label: Assembly-CSharp-Editor-firstpass-Debug.json
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+          projectPath: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+        label: Assembly-CSharp-firstpass-Debug.json
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+          projectPath: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: .vs/TJSimulator/xs/sqlite3
+        label: sqlite3
+        level: 3
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: .vs/TJSimulator/xs/sqlite3/storage.ide
+        label: storage.ide
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: .vs/TJSimulator/xs/sqlite3/storage.ide
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/sqlite3/storage.ide
+          projectPath: .vs/TJSimulator/xs/sqlite3/storage.ide
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: .vs/TJSimulator/xs/sqlite3/storage.ide-shm
+        label: storage.ide-shm
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: .vs/TJSimulator/xs/sqlite3/storage.ide-shm
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/sqlite3/storage.ide-shm
+          projectPath: .vs/TJSimulator/xs/sqlite3/storage.ide-shm
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 5
+      - path: .vs/TJSimulator/xs/sqlite3/storage.ide-wal
+        label: storage.ide-wal
+        level: 4
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: .vs/TJSimulator/xs/sqlite3/storage.ide-wal
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/sqlite3/storage.ide-wal
+          projectPath: .vs/TJSimulator/xs/sqlite3/storage.ide-wal
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 5
+      - path: .vs/TJSimulator/xs/UserPrefs.xml
+        label: UserPrefs.xml
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: .vs/TJSimulator/xs/UserPrefs.xml
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/UserPrefs.xml
+          projectPath: .vs/TJSimulator/xs/UserPrefs.xml
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Assembly-CSharp.csproj
+        label: Assembly-CSharp.csproj
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assembly-CSharp.csproj
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assembly-CSharp.csproj
+          projectPath: Assembly-CSharp.csproj
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Assembly-CSharp-Editor-firstpass.csproj
+        label: Assembly-CSharp-Editor-firstpass.csproj
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assembly-CSharp-Editor-firstpass.csproj
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assembly-CSharp-Editor-firstpass.csproj
+          projectPath: Assembly-CSharp-Editor-firstpass.csproj
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Assembly-CSharp-firstpass.csproj
+        label: Assembly-CSharp-firstpass.csproj
+        level: 0
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assembly-CSharp-firstpass.csproj
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assembly-CSharp-firstpass.csproj
+          projectPath: Assembly-CSharp-firstpass.csproj
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Assets
+        label: Assets
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Assets/.DS_Store
+        label: .DS_Store
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/.DS_Store
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/.DS_Store
+          projectPath: Assets/.DS_Store
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Assets/30000acc.wav
+        label: 30000acc.wav
+        level: 1
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/30000acc.wav
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/30000acc.wav
+          projectPath: Assets/30000acc.wav
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/30000acc.wav.meta
+        label: 30000acc.wav.meta
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/30000acc.wav.meta
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/30000acc.wav.meta
+          projectPath: Assets/30000acc.wav.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/8000max.wav
+        label: 8000max.wav
+        level: 1
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/8000max.wav
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/8000max.wav
+          projectPath: Assets/8000max.wav
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/8000max.wav.meta
+        label: 8000max.wav.meta
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/8000max.wav.meta
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/8000max.wav.meta
+          projectPath: Assets/8000max.wav.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/9050GTO.wav
+        label: 9050GTO.wav
+        level: 1
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/9050GTO.wav
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/9050GTO.wav
+          projectPath: Assets/9050GTO.wav
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/9050GTO.wav.meta
+        label: 9050GTO.wav.meta
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/9050GTO.wav.meta
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/9050GTO.wav.meta
+          projectPath: Assets/9050GTO.wav.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/MoveDestination.cs
+        label: MoveDestination.cs
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/MoveDestination.cs
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/MoveDestination.cs
+          projectPath: Assets/MoveDestination.cs
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Assets/Rails
+        label: Rails
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Assets/Rails/.DS_Store
+        label: .DS_Store
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/.DS_Store
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/.DS_Store
+          projectPath: Assets/Rails/.DS_Store
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/250m (1).blend
+        label: 250m (1).blend
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/250m (1).blend
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/250m
+            (1).blend
+          projectPath: Assets/Rails/250m (1).blend
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/250m (1).blend.meta
+        label: 250m (1).blend.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/250m (1).blend.meta
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/250m
+            (1).blend.meta
+          projectPath: Assets/Rails/250m (1).blend.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/38mc.5.0m.blend
+        label: 38mc.5.0m.blend
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/38mc.5.0m.blend
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.0m.blend
+          projectPath: Assets/Rails/38mc.5.0m.blend
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/38mc.5.0m.blend.meta
+        label: 38mc.5.0m.blend.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/38mc.5.0m.blend.meta
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.0m.blend.meta
+          projectPath: Assets/Rails/38mc.5.0m.blend.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/38mc.5.0m.blend1
+        label: 38mc.5.0m.blend1
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/38mc.5.0m.blend1
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.0m.blend1
+          projectPath: Assets/Rails/38mc.5.0m.blend1
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/38mc.5.0m.blend1.meta
+        label: 38mc.5.0m.blend1.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/38mc.5.0m.blend1.meta
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.0m.blend1.meta
+          projectPath: Assets/Rails/38mc.5.0m.blend1.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/38mc.5.4m.blend
+        label: 38mc.5.4m.blend
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/38mc.5.4m.blend
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m.blend
+          projectPath: Assets/Rails/38mc.5.4m.blend
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/38mc.5.4m.blend.meta
+        label: 38mc.5.4m.blend.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/38mc.5.4m.blend.meta
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m.blend.meta
+          projectPath: Assets/Rails/38mc.5.4m.blend.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/38mc.5.4m2.blend
+        label: 38mc.5.4m2.blend
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/38mc.5.4m2.blend
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m2.blend
+          projectPath: Assets/Rails/38mc.5.4m2.blend
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/38mc.5.4m2.blend.meta
+        label: 38mc.5.4m2.blend.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/38mc.5.4m2.blend.meta
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m2.blend.meta
+          projectPath: Assets/Rails/38mc.5.4m2.blend.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/38mc.5.4m3.blend
+        label: 38mc.5.4m3.blend
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/38mc.5.4m3.blend
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m3.blend
+          projectPath: Assets/Rails/38mc.5.4m3.blend
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/38mc.5.4m3.blend.meta
+        label: 38mc.5.4m3.blend.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/38mc.5.4m3.blend.meta
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m3.blend.meta
+          projectPath: Assets/Rails/38mc.5.4m3.blend.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/38mc.5.4mbase.blend1
+        label: 38mc.5.4mbase.blend1
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/38mc.5.4mbase.blend1
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4mbase.blend1
+          projectPath: Assets/Rails/38mc.5.4mbase.blend1
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/38mc.5.4mbase.blend1.meta
+        label: 38mc.5.4mbase.blend1.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/38mc.5.4mbase.blend1.meta
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4mbase.blend1.meta
+          projectPath: Assets/Rails/38mc.5.4mbase.blend1.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/40mc.blend
+        label: 40mc.blend
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/40mc.blend
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/40mc.blend
+          projectPath: Assets/Rails/40mc.blend
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/40mc.blend.meta
+        label: 40mc.blend.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/40mc.blend.meta
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/40mc.blend.meta
+          projectPath: Assets/Rails/40mc.blend.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/43.7mc.blend
+        label: 43.7mc.blend
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/43.7mc.blend
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/43.7mc.blend
+          projectPath: Assets/Rails/43.7mc.blend
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/43.7mc.blend.meta
+        label: 43.7mc.blend.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/43.7mc.blend.meta
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/43.7mc.blend.meta
+          projectPath: Assets/Rails/43.7mc.blend.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/curvrailbase.blend
+        label: curvrailbase.blend
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/curvrailbase.blend
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/curvrailbase.blend
+          projectPath: Assets/Rails/curvrailbase.blend
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Assets/Rails/curvrailbase.blend1
+        label: curvrailbase.blend1
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/curvrailbase.blend1
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/curvrailbase.blend1
+          projectPath: Assets/Rails/curvrailbase.blend1
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Assets/Rails/dodai38mc.5.0m.blend
+        label: dodai38mc.5.0m.blend
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/dodai38mc.5.0m.blend
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.0m.blend
+          projectPath: Assets/Rails/dodai38mc.5.0m.blend
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/dodai38mc.5.0m.blend.meta
+        label: dodai38mc.5.0m.blend.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/dodai38mc.5.0m.blend.meta
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.0m.blend.meta
+          projectPath: Assets/Rails/dodai38mc.5.0m.blend.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/dodai38mc.5.4m.blend
+        label: dodai38mc.5.4m.blend
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/dodai38mc.5.4m.blend
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.4m.blend
+          projectPath: Assets/Rails/dodai38mc.5.4m.blend
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/dodai38mc.5.4m.blend.meta
+        label: dodai38mc.5.4m.blend.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/dodai38mc.5.4m.blend.meta
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.4m.blend.meta
+          projectPath: Assets/Rails/dodai38mc.5.4m.blend.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/dodai38mc.5.4m.blend1
+        label: dodai38mc.5.4m.blend1
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/dodai38mc.5.4m.blend1
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.4m.blend1
+          projectPath: Assets/Rails/dodai38mc.5.4m.blend1
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/dodai38mc.5.4m.blend1.meta
+        label: dodai38mc.5.4m.blend1.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/dodai38mc.5.4m.blend1.meta
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.4m.blend1.meta
+          projectPath: Assets/Rails/dodai38mc.5.4m.blend1.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/dodai40mc.blend
+        label: dodai40mc.blend
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/dodai40mc.blend
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai40mc.blend
+          projectPath: Assets/Rails/dodai40mc.blend
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/dodai40mc.blend.meta
+        label: dodai40mc.blend.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/dodai40mc.blend.meta
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai40mc.blend.meta
+          projectPath: Assets/Rails/dodai40mc.blend.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/dodai43.7mc.blend
+        label: dodai43.7mc.blend
+        level: 2
+        isFolder: 0
+        isContainer: 1
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/dodai43.7mc.blend
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai43.7mc.blend
+          projectPath: Assets/Rails/dodai43.7mc.blend
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Rails/dodai43.7mc.blend.meta
+        label: dodai43.7mc.blend.meta
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Rails/dodai43.7mc.blend.meta
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai43.7mc.blend.meta
+          projectPath: Assets/Rails/dodai43.7mc.blend.meta
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Assets/Scenes
+        label: Scenes
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Assets/Scenes/SampleScene.unity
+        label: SampleScene.unity
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Scenes/SampleScene.unity
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Scenes/SampleScene.unity
+          projectPath: Assets/Scenes/SampleScene.unity
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Assets/Scenes/SampleScene
+        label: SampleScene
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Assets/Scenes/SampleScene/NavMesh.asset
+        label: NavMesh.asset
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Assets/Scenes/SampleScene/NavMesh.asset
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Scenes/SampleScene/NavMesh.asset
+          projectPath: Assets/Scenes/SampleScene/NavMesh.asset
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Library
         label: Library
         level: 0
@@ -986,6 +3303,24 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
+      - path: Library/assetDatabase3
+        label: assetDatabase3
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/assetDatabase3
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/assetDatabase3
+          projectPath: Library/assetDatabase3
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
       - path: Library/CurrentLayout.dwlt
         label: CurrentLayout.dwlt
         level: 1
@@ -1001,6 +3336,24 @@ MonoBehaviour:
           path: Library/CurrentLayout.dwlt
           fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/CurrentLayout.dwlt
           projectPath: Library/CurrentLayout.dwlt
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library/CurrentMaximizeLayout.dwlt
+        label: CurrentMaximizeLayout.dwlt
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/CurrentMaximizeLayout.dwlt
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/CurrentMaximizeLayout.dwlt
+          projectPath: Library/CurrentMaximizeLayout.dwlt
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
@@ -1020,8 +3373,8 @@ MonoBehaviour:
           fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/EditorInstance.json
           projectPath: Library/EditorInstance.json
           originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
+          indexStatus: 1
+          workTreeStatus: 1
       - path: Library/gfu
         label: gfu
         level: 1
@@ -1130,6 +3483,1428 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 3
+      - path: Library/metadata
+        label: metadata
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/02
+        label: 02
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16
+        label: 023945d787c1f4ae5b2f2865a98b1f16
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16
+          projectPath: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.info
+        label: 023945d787c1f4ae5b2f2865a98b1f16.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.info
+          projectPath: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.resource
+        label: 023945d787c1f4ae5b2f2865a98b1f16.resource
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.resource
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.resource
+          projectPath: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.resource
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/1a
+        label: 1a
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12
+        label: 1a6de26e87f544a129a65b89a1a1db12
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12
+          projectPath: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.info
+        label: 1a6de26e87f544a129a65b89a1a1db12.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.info
+          projectPath: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.resource
+        label: 1a6de26e87f544a129a65b89a1a1db12.resource
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.resource
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.resource
+          projectPath: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.resource
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/2f
+        label: 2f
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6
+        label: 2f19ab390986c4c459cd2ab5be5e2fb6
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6
+          projectPath: Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6.info
+        label: 2f19ab390986c4c459cd2ab5be5e2fb6.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6.info
+          projectPath: Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6.info
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library/metadata/4f
+        label: 4f
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63
+        label: 4fd7dfef74d7d4944a4b4fff92a1bb63
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63
+          projectPath: Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63.info
+        label: 4fd7dfef74d7d4944a4b4fff92a1bb63.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63.info
+          projectPath: Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/52
+        label: 52
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c
+        label: 5207e643ce85e40c39f255dab4e99a6c
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c
+          projectPath: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.info
+        label: 5207e643ce85e40c39f255dab4e99a6c.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.info
+          projectPath: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.resource
+        label: 5207e643ce85e40c39f255dab4e99a6c.resource
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.resource
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.resource
+          projectPath: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.resource
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/64
+        label: 64
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/64/6426c5a62d988486a94600611c5bb56c
+        label: 6426c5a62d988486a94600611c5bb56c
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/64/6426c5a62d988486a94600611c5bb56c
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/64/6426c5a62d988486a94600611c5bb56c
+          projectPath: Library/metadata/64/6426c5a62d988486a94600611c5bb56c
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/64/6426c5a62d988486a94600611c5bb56c.info
+        label: 6426c5a62d988486a94600611c5bb56c.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/64/6426c5a62d988486a94600611c5bb56c.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/64/6426c5a62d988486a94600611c5bb56c.info
+          projectPath: Library/metadata/64/6426c5a62d988486a94600611c5bb56c.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/7f
+        label: 7f
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958
+        label: 7ff3c3d6fd6884219bb1b3cd1df78958
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958
+          projectPath: Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958.info
+        label: 7ff3c3d6fd6884219bb1b3cd1df78958.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958.info
+          projectPath: Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/85
+        label: 85
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/85/859b139a5a6204e02a8e83d01989149e
+        label: 859b139a5a6204e02a8e83d01989149e
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/85/859b139a5a6204e02a8e83d01989149e
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/85/859b139a5a6204e02a8e83d01989149e
+          projectPath: Library/metadata/85/859b139a5a6204e02a8e83d01989149e
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/85/859b139a5a6204e02a8e83d01989149e.info
+        label: 859b139a5a6204e02a8e83d01989149e.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/85/859b139a5a6204e02a8e83d01989149e.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/85/859b139a5a6204e02a8e83d01989149e.info
+          projectPath: Library/metadata/85/859b139a5a6204e02a8e83d01989149e.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/88
+        label: 88
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/88/88705080bbd804b4bafcd7226441918f
+        label: 88705080bbd804b4bafcd7226441918f
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/88/88705080bbd804b4bafcd7226441918f
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/88/88705080bbd804b4bafcd7226441918f
+          projectPath: Library/metadata/88/88705080bbd804b4bafcd7226441918f
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/88/88705080bbd804b4bafcd7226441918f.info
+        label: 88705080bbd804b4bafcd7226441918f.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/88/88705080bbd804b4bafcd7226441918f.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/88/88705080bbd804b4bafcd7226441918f.info
+          projectPath: Library/metadata/88/88705080bbd804b4bafcd7226441918f.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/99
+        label: 99
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/99/99430bd384a90464fb0ec3f73f052dec
+        label: 99430bd384a90464fb0ec3f73f052dec
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/99/99430bd384a90464fb0ec3f73f052dec
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/99/99430bd384a90464fb0ec3f73f052dec
+          projectPath: Library/metadata/99/99430bd384a90464fb0ec3f73f052dec
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library/metadata/ae
+        label: ae
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4
+        label: ae370dda7f7a24f7aa19ebe529c55bc4
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4
+          projectPath: Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4.info
+        label: ae370dda7f7a24f7aa19ebe529c55bc4.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4.info
+          projectPath: Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/b3
+        label: b3
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06
+        label: b314cf5fb38cf4c589676836a0587d06
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06
+          projectPath: Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06.info
+        label: b314cf5fb38cf4c589676836a0587d06.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06.info
+          projectPath: Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/c4
+        label: c4
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202
+        label: c405fbca22c2e4e0388e5b30e8b6f202
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202
+          projectPath: Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202.info
+        label: c405fbca22c2e4e0388e5b30e8b6f202.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202.info
+          projectPath: Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/d0
+        label: d0
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796
+        label: d025f680ffd8e40d8a41b2adb00ce796
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796
+          projectPath: Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796.info
+        label: d025f680ffd8e40d8a41b2adb00ce796.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796.info
+          projectPath: Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/d3
+        label: d3
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/d3/d30e074624e104ef29eb180a0bea161e
+        label: d30e074624e104ef29eb180a0bea161e
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/d3/d30e074624e104ef29eb180a0bea161e
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d3/d30e074624e104ef29eb180a0bea161e
+          projectPath: Library/metadata/d3/d30e074624e104ef29eb180a0bea161e
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/d3/d30e074624e104ef29eb180a0bea161e.info
+        label: d30e074624e104ef29eb180a0bea161e.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/d3/d30e074624e104ef29eb180a0bea161e.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d3/d30e074624e104ef29eb180a0bea161e.info
+          projectPath: Library/metadata/d3/d30e074624e104ef29eb180a0bea161e.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/d7
+        label: d7
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb
+        label: d7e6b57bbd6c843c68aa32d7cfe699cb
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb
+          projectPath: Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb.info
+        label: d7e6b57bbd6c843c68aa32d7cfe699cb.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb.info
+          projectPath: Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/d8
+        label: d8
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/d8/d86e9120b560e498c95367964b4f147e
+        label: d86e9120b560e498c95367964b4f147e
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/d8/d86e9120b560e498c95367964b4f147e
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d8/d86e9120b560e498c95367964b4f147e
+          projectPath: Library/metadata/d8/d86e9120b560e498c95367964b4f147e
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/d8/d86e9120b560e498c95367964b4f147e.info
+        label: d86e9120b560e498c95367964b4f147e.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/d8/d86e9120b560e498c95367964b4f147e.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d8/d86e9120b560e498c95367964b4f147e.info
+          projectPath: Library/metadata/d8/d86e9120b560e498c95367964b4f147e.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/fa
+        label: fa
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/fa/fa81bced054874e0caddb6a83934c600
+        label: fa81bced054874e0caddb6a83934c600
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/fa/fa81bced054874e0caddb6a83934c600
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/fa/fa81bced054874e0caddb6a83934c600
+          projectPath: Library/metadata/fa/fa81bced054874e0caddb6a83934c600
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/fa/fa81bced054874e0caddb6a83934c600.info
+        label: fa81bced054874e0caddb6a83934c600.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/fa/fa81bced054874e0caddb6a83934c600.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/fa/fa81bced054874e0caddb6a83934c600.info
+          projectPath: Library/metadata/fa/fa81bced054874e0caddb6a83934c600.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/fc
+        label: fc
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687
+        label: fcc7bf9259b464b81bbbd3c3e36f7687
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687
+          projectPath: Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687.info
+        label: fcc7bf9259b464b81bbbd3c3e36f7687.info
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687.info
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687.info
+          projectPath: Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687.info
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Library/ScriptAssemblies
+        label: ScriptAssemblies
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+        label: Assembly-CSharp.dll
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/ScriptAssemblies/Assembly-CSharp.dll
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Assembly-CSharp.dll
+          projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+        label: Assembly-CSharp.pdb
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Assembly-CSharp.pdb
+          projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library/StateCache
+        label: StateCache
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/StateCache/Hierarchy
+        label: Hierarchy
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/StateCache/Hierarchy/c9e086-mainStage.json
+        label: c9e086-mainStage.json
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/StateCache/Hierarchy/c9e086-mainStage.json
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/StateCache/Hierarchy/c9e086-mainStage.json
+          projectPath: Library/StateCache/Hierarchy/c9e086-mainStage.json
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Library/StateCache/SceneView
+        label: SceneView
+        level: 2
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Library/StateCache/SceneView/282d53-mainStage.json
+        label: 282d53-mainStage.json
+        level: 3
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Library/StateCache/SceneView/282d53-mainStage.json
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/StateCache/SceneView/282d53-mainStage.json
+          projectPath: Library/StateCache/SceneView/282d53-mainStage.json
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: obj
+        label: obj
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: obj/Debug
+        label: Debug
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+        label: Assembly-CSharp.csprojAssemblyReference.cache
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+          projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+        label: Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+          projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+        label: Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+          projectPath: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 3
+      - path: Temp
+        label: Temp
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Temp/__Backupscenes
+        label: __Backupscenes
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Temp/__Backupscenes/0.backup
+        label: 0.backup
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp/__Backupscenes/0.backup
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/__Backupscenes/0.backup
+          projectPath: Temp/__Backupscenes/0.backup
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Temp/ProcessJobs
+        label: ProcessJobs
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: 
+          fullPath: 
+          projectPath: 
+          originalPath: 
+          indexStatus: 0
+          workTreeStatus: 0
+      - path: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+        label: e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+          projectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
+      - path: Temp/UnityLockfile
+        label: UnityLockfile
+        level: 1
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 1
+        checkState: 0
+        isLocked: 0
+        gitStatusEntry:
+          path: Temp/UnityLockfile
+          fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityLockfile
+          projectPath: Temp/UnityLockfile
+          originalPath: 
+          indexStatus: 1
+          workTreeStatus: 1
       selectedNode:
         path: 
         label: 
@@ -1150,9 +4925,335 @@ MonoBehaviour:
           indexStatus: 0
           workTreeStatus: 0
     gitStatusEntries:
+    - path: .DS_Store
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.DS_Store
+      projectPath: .DS_Store
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-Debug.json
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/project-cache/Assembly-CSharp-Debug.json
+      projectPath: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-Debug.json
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+      projectPath: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+      projectPath: .vs/TJSimulator/xs/project-cache/Assembly-CSharp-firstpass-Debug.json
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: .vs/TJSimulator/xs/sqlite3/storage.ide
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/sqlite3/storage.ide
+      projectPath: .vs/TJSimulator/xs/sqlite3/storage.ide
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: .vs/TJSimulator/xs/sqlite3/storage.ide-shm
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/sqlite3/storage.ide-shm
+      projectPath: .vs/TJSimulator/xs/sqlite3/storage.ide-shm
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 5
+    - path: .vs/TJSimulator/xs/sqlite3/storage.ide-wal
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/sqlite3/storage.ide-wal
+      projectPath: .vs/TJSimulator/xs/sqlite3/storage.ide-wal
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 5
+    - path: .vs/TJSimulator/xs/UserPrefs.xml
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/UserPrefs.xml
+      projectPath: .vs/TJSimulator/xs/UserPrefs.xml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Assembly-CSharp.csproj
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Assembly-CSharp-firstpass.csproj
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assembly-CSharp-firstpass.csproj
+      projectPath: Assembly-CSharp-firstpass.csproj
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Assets/.DS_Store
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/.DS_Store
+      projectPath: Assets/.DS_Store
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Assets/30000acc.wav
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/30000acc.wav
+      projectPath: Assets/30000acc.wav
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/30000acc.wav.meta
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/30000acc.wav.meta
+      projectPath: Assets/30000acc.wav.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/8000max.wav
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/8000max.wav
+      projectPath: Assets/8000max.wav
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/8000max.wav.meta
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/8000max.wav.meta
+      projectPath: Assets/8000max.wav.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/9050GTO.wav
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/9050GTO.wav
+      projectPath: Assets/9050GTO.wav
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/9050GTO.wav.meta
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/9050GTO.wav.meta
+      projectPath: Assets/9050GTO.wav.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/MoveDestination.cs
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/MoveDestination.cs
+      projectPath: Assets/MoveDestination.cs
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Assets/Rails/.DS_Store
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/.DS_Store
+      projectPath: Assets/Rails/.DS_Store
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/250m (1).blend
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/250m
+        (1).blend
+      projectPath: Assets/Rails/250m (1).blend
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/250m (1).blend.meta
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/250m
+        (1).blend.meta
+      projectPath: Assets/Rails/250m (1).blend.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/38mc.5.0m.blend
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.0m.blend
+      projectPath: Assets/Rails/38mc.5.0m.blend
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/38mc.5.0m.blend.meta
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.0m.blend.meta
+      projectPath: Assets/Rails/38mc.5.0m.blend.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/38mc.5.0m.blend1
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.0m.blend1
+      projectPath: Assets/Rails/38mc.5.0m.blend1
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/38mc.5.0m.blend1.meta
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.0m.blend1.meta
+      projectPath: Assets/Rails/38mc.5.0m.blend1.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/38mc.5.4m.blend
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m.blend
+      projectPath: Assets/Rails/38mc.5.4m.blend
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/38mc.5.4m.blend.meta
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m.blend.meta
+      projectPath: Assets/Rails/38mc.5.4m.blend.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/38mc.5.4m2.blend
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m2.blend
+      projectPath: Assets/Rails/38mc.5.4m2.blend
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/38mc.5.4m2.blend.meta
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m2.blend.meta
+      projectPath: Assets/Rails/38mc.5.4m2.blend.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/38mc.5.4m3.blend
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m3.blend
+      projectPath: Assets/Rails/38mc.5.4m3.blend
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/38mc.5.4m3.blend.meta
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4m3.blend.meta
+      projectPath: Assets/Rails/38mc.5.4m3.blend.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/38mc.5.4mbase.blend1
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4mbase.blend1
+      projectPath: Assets/Rails/38mc.5.4mbase.blend1
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/38mc.5.4mbase.blend1.meta
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/38mc.5.4mbase.blend1.meta
+      projectPath: Assets/Rails/38mc.5.4mbase.blend1.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/40mc.blend
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/40mc.blend
+      projectPath: Assets/Rails/40mc.blend
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/40mc.blend.meta
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/40mc.blend.meta
+      projectPath: Assets/Rails/40mc.blend.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/43.7mc.blend
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/43.7mc.blend
+      projectPath: Assets/Rails/43.7mc.blend
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/43.7mc.blend.meta
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/43.7mc.blend.meta
+      projectPath: Assets/Rails/43.7mc.blend.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/curvrailbase.blend
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/curvrailbase.blend
+      projectPath: Assets/Rails/curvrailbase.blend
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Assets/Rails/curvrailbase.blend1
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/curvrailbase.blend1
+      projectPath: Assets/Rails/curvrailbase.blend1
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Assets/Rails/dodai38mc.5.0m.blend
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.0m.blend
+      projectPath: Assets/Rails/dodai38mc.5.0m.blend
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/dodai38mc.5.0m.blend.meta
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.0m.blend.meta
+      projectPath: Assets/Rails/dodai38mc.5.0m.blend.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/dodai38mc.5.4m.blend
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.4m.blend
+      projectPath: Assets/Rails/dodai38mc.5.4m.blend
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/dodai38mc.5.4m.blend.meta
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.4m.blend.meta
+      projectPath: Assets/Rails/dodai38mc.5.4m.blend.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/dodai38mc.5.4m.blend1
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.4m.blend1
+      projectPath: Assets/Rails/dodai38mc.5.4m.blend1
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/dodai38mc.5.4m.blend1.meta
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai38mc.5.4m.blend1.meta
+      projectPath: Assets/Rails/dodai38mc.5.4m.blend1.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/dodai40mc.blend
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai40mc.blend
+      projectPath: Assets/Rails/dodai40mc.blend
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/dodai40mc.blend.meta
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai40mc.blend.meta
+      projectPath: Assets/Rails/dodai40mc.blend.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/dodai43.7mc.blend
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai43.7mc.blend
+      projectPath: Assets/Rails/dodai43.7mc.blend
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Rails/dodai43.7mc.blend.meta
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Rails/dodai43.7mc.blend.meta
+      projectPath: Assets/Rails/dodai43.7mc.blend.meta
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Assets/Scenes/SampleScene.unity
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Scenes/SampleScene.unity
+      projectPath: Assets/Scenes/SampleScene.unity
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Assets/Scenes/SampleScene/NavMesh.asset
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Scenes/SampleScene/NavMesh.asset
+      projectPath: Assets/Scenes/SampleScene/NavMesh.asset
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library/assetDatabase3
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
     - path: Library/CurrentLayout.dwlt
       fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/CurrentLayout.dwlt
       projectPath: Library/CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library/CurrentMaximizeLayout.dwlt
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/CurrentMaximizeLayout.dwlt
+      projectPath: Library/CurrentMaximizeLayout.dwlt
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
@@ -1160,8 +5261,8 @@ MonoBehaviour:
       fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/EditorInstance.json
       projectPath: Library/EditorInstance.json
       originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
+      indexStatus: 1
+      workTreeStatus: 1
     - path: Library/gfu/cache/gitlocks.yaml
       fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/gfu/cache/gitlocks.yaml
       projectPath: Library/gfu/cache/gitlocks.yaml
@@ -1186,15 +5287,315 @@ MonoBehaviour:
       originalPath: 
       indexStatus: 0
       workTreeStatus: 3
-    changedFilesText: 6 changed files
+    - path: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16
+      projectPath: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.info
+      projectPath: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.resource
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.resource
+      projectPath: Library/metadata/02/023945d787c1f4ae5b2f2865a98b1f16.resource
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12
+      projectPath: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.info
+      projectPath: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.resource
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.resource
+      projectPath: Library/metadata/1a/1a6de26e87f544a129a65b89a1a1db12.resource
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6
+      projectPath: Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6.info
+      projectPath: Library/metadata/2f/2f19ab390986c4c459cd2ab5be5e2fb6.info
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63
+      projectPath: Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63.info
+      projectPath: Library/metadata/4f/4fd7dfef74d7d4944a4b4fff92a1bb63.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c
+      projectPath: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.info
+      projectPath: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.resource
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.resource
+      projectPath: Library/metadata/52/5207e643ce85e40c39f255dab4e99a6c.resource
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/64/6426c5a62d988486a94600611c5bb56c
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/64/6426c5a62d988486a94600611c5bb56c
+      projectPath: Library/metadata/64/6426c5a62d988486a94600611c5bb56c
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/64/6426c5a62d988486a94600611c5bb56c.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/64/6426c5a62d988486a94600611c5bb56c.info
+      projectPath: Library/metadata/64/6426c5a62d988486a94600611c5bb56c.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958
+      projectPath: Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958.info
+      projectPath: Library/metadata/7f/7ff3c3d6fd6884219bb1b3cd1df78958.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/85/859b139a5a6204e02a8e83d01989149e
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/85/859b139a5a6204e02a8e83d01989149e
+      projectPath: Library/metadata/85/859b139a5a6204e02a8e83d01989149e
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/85/859b139a5a6204e02a8e83d01989149e.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/85/859b139a5a6204e02a8e83d01989149e.info
+      projectPath: Library/metadata/85/859b139a5a6204e02a8e83d01989149e.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/88/88705080bbd804b4bafcd7226441918f
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/88/88705080bbd804b4bafcd7226441918f
+      projectPath: Library/metadata/88/88705080bbd804b4bafcd7226441918f
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/88/88705080bbd804b4bafcd7226441918f.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/88/88705080bbd804b4bafcd7226441918f.info
+      projectPath: Library/metadata/88/88705080bbd804b4bafcd7226441918f.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/99/99430bd384a90464fb0ec3f73f052dec
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/99/99430bd384a90464fb0ec3f73f052dec
+      projectPath: Library/metadata/99/99430bd384a90464fb0ec3f73f052dec
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4
+      projectPath: Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4.info
+      projectPath: Library/metadata/ae/ae370dda7f7a24f7aa19ebe529c55bc4.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06
+      projectPath: Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06.info
+      projectPath: Library/metadata/b3/b314cf5fb38cf4c589676836a0587d06.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202
+      projectPath: Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202.info
+      projectPath: Library/metadata/c4/c405fbca22c2e4e0388e5b30e8b6f202.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796
+      projectPath: Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796.info
+      projectPath: Library/metadata/d0/d025f680ffd8e40d8a41b2adb00ce796.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/d3/d30e074624e104ef29eb180a0bea161e
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d3/d30e074624e104ef29eb180a0bea161e
+      projectPath: Library/metadata/d3/d30e074624e104ef29eb180a0bea161e
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/d3/d30e074624e104ef29eb180a0bea161e.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d3/d30e074624e104ef29eb180a0bea161e.info
+      projectPath: Library/metadata/d3/d30e074624e104ef29eb180a0bea161e.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb
+      projectPath: Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb.info
+      projectPath: Library/metadata/d7/d7e6b57bbd6c843c68aa32d7cfe699cb.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/d8/d86e9120b560e498c95367964b4f147e
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d8/d86e9120b560e498c95367964b4f147e
+      projectPath: Library/metadata/d8/d86e9120b560e498c95367964b4f147e
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/d8/d86e9120b560e498c95367964b4f147e.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/d8/d86e9120b560e498c95367964b4f147e.info
+      projectPath: Library/metadata/d8/d86e9120b560e498c95367964b4f147e.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/fa/fa81bced054874e0caddb6a83934c600
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/fa/fa81bced054874e0caddb6a83934c600
+      projectPath: Library/metadata/fa/fa81bced054874e0caddb6a83934c600
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/fa/fa81bced054874e0caddb6a83934c600.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/fa/fa81bced054874e0caddb6a83934c600.info
+      projectPath: Library/metadata/fa/fa81bced054874e0caddb6a83934c600.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687
+      projectPath: Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687.info
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687.info
+      projectPath: Library/metadata/fc/fcc7bf9259b464b81bbbd3c3e36f7687.info
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Assembly-CSharp.pdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library/StateCache/Hierarchy/c9e086-mainStage.json
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/StateCache/Hierarchy/c9e086-mainStage.json
+      projectPath: Library/StateCache/Hierarchy/c9e086-mainStage.json
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Library/StateCache/SceneView/282d53-mainStage.json
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/StateCache/SceneView/282d53-mainStage.json
+      projectPath: Library/StateCache/SceneView/282d53-mainStage.json
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+      projectPath: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Temp/__Backupscenes/0.backup
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      projectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    - path: Temp/UnityLockfile
+      fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityLockfile
+      projectPath: Temp/UnityLockfile
+      originalPath: 
+      indexStatus: 1
+      workTreeStatus: 1
+    changedFilesText: 110 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2019-08-18T01:52:03.911+09:00
+      updatedTimeString: 2019-09-01T17:15:09.709+09:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2019-08-18T02:13:38.993+09:00
+      updatedTimeString: 2019-09-01T17:25:12.292+09:00
       cacheType: 6
     lastLocksChangedEvent:
-      updatedTimeString: 2019-08-18T02:13:39.029+09:00
+      updatedTimeString: 2019-09-01T17:25:03.799+09:00
       cacheType: 7
   historyView:
     currentLogHasUpdate: 0
@@ -66982,7 +71383,7 @@ MonoBehaviour:
     updatedTimeString: 2019-08-14T22:04:18.412+09:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2019-08-14T22:17:02.382+09:00
+    updatedTimeString: 2019-09-01T00:24:08.436+09:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -67002,7 +71403,7 @@ MonoBehaviour:
     m_Tooltip: 
   repositoryProgressValue: 1
   repositoryProgressMessage: Listing changed files...
-  appManagerProgressValue: 0.5
-  appManagerProgressMessage: Setting up git...
+  appManagerProgressValue: 0
+  appManagerProgressMessage: 
   connections: []
   primaryConnectionUsername: 

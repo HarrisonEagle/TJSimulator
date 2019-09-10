@@ -1,27 +1,21 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.AI;
 
 public class FollowPlayer : MonoBehaviour
 {
-    public GameObject player;
-    public Transform target;
-    private Vector3 offset;
+
+    public GameObject firstCar;
+    private NavMeshAgent agent;
 
     void Start()
     {
-        offset = transform.position - player.transform.position;
-        //offset.y = 0.5f;
-        //offset.z = 7f;
-
-    }  // ターゲットへの参照
+        agent = GetComponent<NavMeshAgent>();
+    }
 
     void Update()
     {
-        // 自分の座標にtargetの座標を代入する
-        transform.position = player.transform.position + offset;
+        agent.destination = firstCar.transform.position;
     }
 }
-
-
