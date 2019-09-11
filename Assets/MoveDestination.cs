@@ -434,7 +434,7 @@ public class MoveDestination : MonoBehaviour
         agent = GetComponent<NavMeshAgent>();
         agent.destination = goal.position;
 
-        Invoke("shingo", 15.0f);
+        Invoke("shingo", 28.0f);
 
         atss.Add(obj);
         atss.Add(obj1);
@@ -875,7 +875,7 @@ public class MoveDestination : MonoBehaviour
                     if (abletogo==false)
                     {
                         hanyoumelody.Play();
-                        Invoke("shingo", 10.0f);
+                        Invoke("shingo", 7.0f);
                     }
                 }
             }

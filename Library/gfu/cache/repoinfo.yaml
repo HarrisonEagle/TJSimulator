@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-09-09T21:34:17.270+09:00
-  initializedAtString: 2019-09-09T21:34:17.270+09:00
+  lastUpdatedAtString: 2019-09-11T13:45:20.755+09:00
+  initializedAtString: 2019-09-11T13:45:20.755+09:00
   currentGitRemote:
     name: origin
     url: https://github.com/HarrisonKawagoe3960X/TJSimulator.git

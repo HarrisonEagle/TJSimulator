@@ -1,0 +1,342 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-09-11T13:13:21.622+09:00
+  initializedAtString: 2019-09-11T13:13:21.622+09:00
+  entries:
+  - path: .vs/TJSimulator/xs/sqlite3/storage.ide
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/sqlite3/storage.ide
+    projectPath: .vs/TJSimulator/xs/sqlite3/storage.ide
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs/TJSimulator/xs/UserPrefs.xml
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/.vs/TJSimulator/xs/UserPrefs.xml
+    projectPath: .vs/TJSimulator/xs/UserPrefs.xml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/.DS_Store
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/.DS_Store
+    projectPath: Assets/.DS_Store
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/citymemoria.wav
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/citymemoria.wav
+    projectPath: Assets/citymemoria.wav
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/MoveDestination.cs
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/MoveDestination.cs
+    projectPath: Assets/MoveDestination.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/SampleScene.unity
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Assets/Scenes/SampleScene.unity
+    projectPath: Assets/Scenes/SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/assetDatabase3
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/CurrentLayout.dwlt
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/CurrentLayout.dwlt
+    projectPath: Library/CurrentLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorInstance.json
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/LastBuild.buildreport
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/LastBuild.buildreport
+    projectPath: Library/LastBuild.buildreport
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/64/64f6a23583ed34249a00de54161c7cb2
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/64/64f6a23583ed34249a00de54161c7cb2
+    projectPath: Library/metadata/64/64f6a23583ed34249a00de54161c7cb2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/64/64f6a23583ed34249a00de54161c7cb2.info
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/64/64f6a23583ed34249a00de54161c7cb2.info
+    projectPath: Library/metadata/64/64f6a23583ed34249a00de54161c7cb2.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/64/64f6a23583ed34249a00de54161c7cb2.resource
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/64/64f6a23583ed34249a00de54161c7cb2.resource
+    projectPath: Library/metadata/64/64f6a23583ed34249a00de54161c7cb2.resource
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/metadata/99/99430bd384a90464fb0ec3f73f052dec
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/metadata/99/99430bd384a90464fb0ec3f73f052dec
+    projectPath: Library/metadata/99/99430bd384a90464fb0ec3f73f052dec
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/globalgamemanagers
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/level0
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/level0
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/level0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Assembly-CSharp.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/Managed/Assembly-CSharp.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Assembly-CSharp-firstpass.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/Managed/Assembly-CSharp-firstpass.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Assembly-CSharp-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Analytics.DataPrivacy.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Analytics.DataPrivacy.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.TextMeshPro.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.TextMeshPro.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Timeline.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Timeline.dll
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/Managed/Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.resource
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.resource
+    projectPath: Library/PlayerDataCache/OSXUniversal/Data/sharedassets0.resource
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+    projectPath: Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.Timeline.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/SceneView/282d53-mainStage.json
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Library/StateCache/SceneView/282d53-mainStage.json
+    projectPath: Library/StateCache/SceneView/282d53-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityLockfile
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityLockfile
+    projectPath: Temp/UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1bab3a7e30bbd4e2facf6fa2024df395
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-1bab3a7e30bbd4e2facf6fa2024df395
+    projectPath: Temp/UnityTempFile-1bab3a7e30bbd4e2facf6fa2024df395
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1dd94ab30a0984107826fe9724d8b5b9
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-1dd94ab30a0984107826fe9724d8b5b9
+    projectPath: Temp/UnityTempFile-1dd94ab30a0984107826fe9724d8b5b9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2c6023af742304ac0b450d2b016f7abf
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-2c6023af742304ac0b450d2b016f7abf
+    projectPath: Temp/UnityTempFile-2c6023af742304ac0b450d2b016f7abf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-35ac721fc04724668a5bbcb766ca053c
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-35ac721fc04724668a5bbcb766ca053c
+    projectPath: Temp/UnityTempFile-35ac721fc04724668a5bbcb766ca053c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-444940152b71a49bd9d53b4fa08fff6b
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-444940152b71a49bd9d53b4fa08fff6b
+    projectPath: Temp/UnityTempFile-444940152b71a49bd9d53b4fa08fff6b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-497e6805289714329bb607e3eb93b272
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-497e6805289714329bb607e3eb93b272
+    projectPath: Temp/UnityTempFile-497e6805289714329bb607e3eb93b272
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-4bedc49b429734b1892bd1cb77be8189
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-4bedc49b429734b1892bd1cb77be8189
+    projectPath: Temp/UnityTempFile-4bedc49b429734b1892bd1cb77be8189
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-59e02fee785d645a5a96acbbed09efbb
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-59e02fee785d645a5a96acbbed09efbb
+    projectPath: Temp/UnityTempFile-59e02fee785d645a5a96acbbed09efbb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6b2477550b19645c097b0321d85fefa5
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-6b2477550b19645c097b0321d85fefa5
+    projectPath: Temp/UnityTempFile-6b2477550b19645c097b0321d85fefa5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-824e5d03a7ad144b5b723c6651a9d807
+    fullPath: /Users/harris_hawk/Documents/GitHub/TJSimulator/Temp/UnityTempFile-824e5d03a7ad144b5b723c6651a9d807
+    projectPath: Temp/UnityTempFile-824e5d03a7ad144b5b723c6651a9d807
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
